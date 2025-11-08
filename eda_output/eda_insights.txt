@@ -1,0 +1,38 @@
+
+================================================================================
+EDA KEY INSIGHTS & SUMMARY
+================================================================================
+
+OVERALL PERFORMANCE:
+  • Total Revenue (6 months): $367,367.58
+  • Total Items Sold: 47,916
+  • Average Monthly Revenue: $61,227.93
+  • Average Monthly Items: 7,986
+
+GROWTH TRENDS:
+  • Revenue Growth (May to October): 12.5%
+  • Items Sold Growth (May to October): 8.6%
+
+TOP PERFORMERS:
+  • Highest Revenue Item: Beef Ramen ($28,199.52)
+  • Most Sold Item: Water (11,044 units)
+  • Highest Consumption Ingredient: rice_noodles_g (760,500)
+
+INGREDIENT INSIGHTS:
+  • Ingredients with shipment data: 11/14
+  • Most volatile ingredient: carrot_g (CV: 0.56)
+  • Consumption-Revenue Correlation: -0.159
+
+INVENTORY MANAGEMENT:
+  • Ingredients needing attention (no shipment data): 3
+  • Weekly shipments: 8 ingredients
+  • Biweekly shipments: 2 ingredients
+  • Monthly shipments: 1 ingredients
+
+RECOMMENDATIONS:
+  1. Monitor carrot_g closely due to high consumption volatility
+  2. Consider adding shipment tracking for ingredients without data
+  3. Focus inventory optimization on top 5 consuming ingredients
+  4. Analyze seasonal patterns for better forecasting
+
+================================================================================

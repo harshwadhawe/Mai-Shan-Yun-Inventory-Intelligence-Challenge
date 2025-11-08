@@ -1,0 +1,487 @@
+month,item_name,sales_count,ingredient,consumption_per_item,total_consumption,revenue
+May,Beef Tossed Ramen,468,braised_beef_g,140.0,65520.0,6921.26
+May,Beef Tossed Ramen,468,egg_count,0.5,234.0,6921.26
+May,Beef Tossed Ramen,468,ramen_count,1.0,468.0,6921.26
+May,Beef Tossed Ramen,468,pickle_cabbage,50.0,23400.0,6921.26
+May,Beef Tossed Ramen,468,green_onion,20.0,9360.0,6921.26
+May,Beef Tossed Ramen,468,cilantro,20.0,9360.0,6921.26
+May,Beef Tossed Ramen,468,bokchoy_g,50.0,23400.0,6921.26
+May,Beef Ramen,339,braised_beef_g,140.0,47460.0,5045.65
+May,Beef Ramen,339,egg_count,0.5,169.5,5045.65
+May,Beef Ramen,339,ramen_count,1.0,339.0,5045.65
+May,Beef Ramen,339,green_onion,20.0,6780.0,5045.65
+May,Beef Ramen,339,cilantro,20.0,6780.0,5045.65
+May,Pork Tossed Ramen,260,braised_pork_g,140.0,36400.0,3526.47
+May,Pork Tossed Ramen,260,egg_count,0.5,130.0,3526.47
+May,Pork Tossed Ramen,260,ramen_count,1.0,260.0,3526.47
+May,Pork Tossed Ramen,260,pickle_cabbage,50.0,13000.0,3526.47
+May,Pork Tossed Ramen,260,green_onion,20.0,5200.0,3526.47
+May,Pork Tossed Ramen,260,cilantro,20.0,5200.0,3526.47
+May,Chicken Rice Noodle Soup,233,braised_chicken_g,140.0,32620.0,3303.84
+May,Chicken Rice Noodle Soup,233,egg_count,0.5,116.5,3303.84
+May,Chicken Rice Noodle Soup,233,rice_noodles_g,300.0,69900.0,3303.84
+May,Chicken Rice Noodle Soup,233,green_onion,20.0,4660.0,3303.84
+May,Chicken Rice Noodle Soup,233,cilantro,20.0,4660.0,3303.84
+May,Chicken Rice Noodle Soup,233,bokchoy_g,50.0,11650.0,3303.84
+May,Chicken Ramen,222,braised_chicken_g,140.0,31080.0,3313.0
+May,Chicken Ramen,222,egg_count,0.5,111.0,3313.0
+May,Chicken Ramen,222,ramen_count,1.0,222.0,3313.0
+May,Chicken Ramen,222,green_onion,20.0,4440.0,3313.0
+May,Chicken Ramen,222,cilantro,20.0,4440.0,3313.0
+May,Chicken Ramen,222,bokchoy_g,50.0,11100.0,3313.0
+May,Chicken Tossed Ramen,200,braised_chicken_g,140.0,28000.0,2906.3
+May,Chicken Tossed Ramen,200,egg_count,0.5,100.0,2906.3
+May,Chicken Tossed Ramen,200,ramen_count,1.0,200.0,2906.3
+May,Chicken Tossed Ramen,200,pickle_cabbage,50.0,10000.0,2906.3
+May,Chicken Tossed Ramen,200,green_onion,20.0,4000.0,2906.3
+May,Chicken Tossed Ramen,200,cilantro,20.0,4000.0,2906.3
+May,Beef Rice Noodle Soup,147,braised_beef_g,140.0,20580.0,2316.04
+May,Beef Rice Noodle Soup,147,egg_count,0.5,73.5,2316.04
+May,Beef Rice Noodle Soup,147,rice_noodles_g,300.0,44100.0,2316.04
+May,Beef Rice Noodle Soup,147,green_onion,20.0,2940.0,2316.04
+May,Beef Rice Noodle Soup,147,cilantro,20.0,2940.0,2316.04
+May,Beef Rice Noodle Soup,147,bokchoy_g,50.0,7350.0,2316.04
+May,Pork Ramen,131,braised_pork_g,140.0,18340.0,1845.21
+May,Pork Ramen,131,egg_count,0.5,65.5,1845.21
+May,Pork Ramen,131,ramen_count,1.0,131.0,1845.21
+May,Pork Ramen,131,green_onion,20.0,2620.0,1845.21
+May,Pork Ramen,131,cilantro,20.0,2620.0,1845.21
+May,Pork Ramen,131,bokchoy_g,50.0,6550.0,1845.21
+May,Chicken Tossed Rice Noodles,118,braised_chicken_g,140.0,16520.0,1726.89
+May,Chicken Tossed Rice Noodles,118,egg_count,0.5,59.0,1726.89
+May,Chicken Tossed Rice Noodles,118,rice_noodles_g,300.0,35400.0,1726.89
+May,Chicken Tossed Rice Noodles,118,pickle_cabbage,50.0,5900.0,1726.89
+May,Chicken Tossed Rice Noodles,118,green_onion,20.0,2360.0,1726.89
+May,Chicken Tossed Rice Noodles,118,cilantro,20.0,2360.0,1726.89
+May,Pork Rice Noodle Soup,72,braised_pork_g,140.0,10080.0,986.46
+May,Pork Rice Noodle Soup,72,egg_count,0.5,36.0,986.46
+May,Pork Rice Noodle Soup,72,rice_noodles_g,300.0,21600.0,986.46
+May,Pork Rice Noodle Soup,72,green_onion,20.0,1440.0,986.46
+May,Pork Rice Noodle Soup,72,cilantro,20.0,1440.0,986.46
+May,Pork Rice Noodle Soup,72,bokchoy_g,50.0,3600.0,986.46
+May,Chicken Fried Rice,80,braised_chicken_g,100.0,8000.0,1000.1
+May,Chicken Fried Rice,80,egg_count,1.0,80.0,1000.1
+May,Chicken Fried Rice,80,rice_g,350.0,28000.0,1000.1
+May,Chicken Fried Rice,80,green_onion,20.0,1600.0,1000.1
+May,Chicken Fried Rice,80,white_onion,20.0,1600.0,1000.1
+May,Chicken Fried Rice,80,peas_g,10.0,800.0,1000.1
+May,Chicken Fried Rice,80,carrot_g,10.0,800.0,1000.1
+May,Beef Fried Rice,28,braised_beef_g,100.0,2800.0,377.5
+May,Beef Fried Rice,28,egg_count,1.0,28.0,377.5
+May,Beef Fried Rice,28,rice_g,350.0,9800.0,377.5
+May,Beef Fried Rice,28,green_onion,20.0,560.0,377.5
+May,Beef Fried Rice,28,white_onion,20.0,560.0,377.5
+May,Beef Fried Rice,28,peas_g,10.0,280.0,377.5
+May,Beef Fried Rice,28,carrot_g,10.0,280.0,377.5
+May,Pork Fried Rice,17,braised_pork_g,100.0,1700.0,213.55
+May,Pork Fried Rice,17,egg_count,1.0,17.0,213.55
+May,Pork Fried Rice,17,rice_g,350.0,5950.0,213.55
+May,Pork Fried Rice,17,green_onion,20.0,340.0,213.55
+May,Pork Fried Rice,17,white_onion,20.0,340.0,213.55
+May,Pork Fried Rice,17,peas_g,10.0,170.0,213.55
+May,Pork Fried Rice,17,carrot_g,10.0,170.0,213.55
+June,Beef Tossed Ramen,286,braised_beef_g,140.0,40040.0,4248.69
+June,Beef Tossed Ramen,286,egg_count,0.5,143.0,4248.69
+June,Beef Tossed Ramen,286,ramen_count,1.0,286.0,4248.69
+June,Beef Tossed Ramen,286,pickle_cabbage,50.0,14300.0,4248.69
+June,Beef Tossed Ramen,286,green_onion,20.0,5720.0,4248.69
+June,Beef Tossed Ramen,286,cilantro,20.0,5720.0,4248.69
+June,Beef Tossed Ramen,286,bokchoy_g,50.0,14300.0,4248.69
+June,Beef Ramen,195,braised_beef_g,140.0,27300.0,2907.79
+June,Beef Ramen,195,egg_count,0.5,97.5,2907.79
+June,Beef Ramen,195,ramen_count,1.0,195.0,2907.79
+June,Beef Ramen,195,green_onion,20.0,3900.0,2907.79
+June,Beef Ramen,195,cilantro,20.0,3900.0,2907.79
+June,Chicken Rice Noodle Soup,153,braised_chicken_g,140.0,21420.0,2196.39
+June,Chicken Rice Noodle Soup,153,egg_count,0.5,76.5,2196.39
+June,Chicken Rice Noodle Soup,153,rice_noodles_g,300.0,45900.0,2196.39
+June,Chicken Rice Noodle Soup,153,green_onion,20.0,3060.0,2196.39
+June,Chicken Rice Noodle Soup,153,cilantro,20.0,3060.0,2196.39
+June,Chicken Rice Noodle Soup,153,bokchoy_g,50.0,7650.0,2196.39
+June,Pork Tossed Ramen,134,braised_pork_g,140.0,18760.0,1769.95
+June,Pork Tossed Ramen,134,egg_count,0.5,67.0,1769.95
+June,Pork Tossed Ramen,134,ramen_count,1.0,134.0,1769.95
+June,Pork Tossed Ramen,134,pickle_cabbage,50.0,6700.0,1769.95
+June,Pork Tossed Ramen,134,green_onion,20.0,2680.0,1769.95
+June,Pork Tossed Ramen,134,cilantro,20.0,2680.0,1769.95
+June,Chicken Ramen,117,braised_chicken_g,140.0,16380.0,1724.75
+June,Chicken Ramen,117,egg_count,0.5,58.5,1724.75
+June,Chicken Ramen,117,ramen_count,1.0,117.0,1724.75
+June,Chicken Ramen,117,green_onion,20.0,2340.0,1724.75
+June,Chicken Ramen,117,cilantro,20.0,2340.0,1724.75
+June,Chicken Ramen,117,bokchoy_g,50.0,5850.0,1724.75
+June,Beef Rice Noodle Soup,81,braised_beef_g,140.0,11340.0,1241.45
+June,Beef Rice Noodle Soup,81,egg_count,0.5,40.5,1241.45
+June,Beef Rice Noodle Soup,81,rice_noodles_g,300.0,24300.0,1241.45
+June,Beef Rice Noodle Soup,81,green_onion,20.0,1620.0,1241.45
+June,Beef Rice Noodle Soup,81,cilantro,20.0,1620.0,1241.45
+June,Beef Rice Noodle Soup,81,bokchoy_g,50.0,4050.0,1241.45
+June,Chicken Tossed Rice Noodles,78,braised_chicken_g,140.0,10920.0,1176.77
+June,Chicken Tossed Rice Noodles,78,egg_count,0.5,39.0,1176.77
+June,Chicken Tossed Rice Noodles,78,rice_noodles_g,300.0,23400.0,1176.77
+June,Chicken Tossed Rice Noodles,78,pickle_cabbage,50.0,3900.0,1176.77
+June,Chicken Tossed Rice Noodles,78,green_onion,20.0,1560.0,1176.77
+June,Chicken Tossed Rice Noodles,78,cilantro,20.0,1560.0,1176.77
+June,Chicken Tossed Ramen,81,braised_chicken_g,140.0,11340.0,1138.02
+June,Chicken Tossed Ramen,81,egg_count,0.5,40.5,1138.02
+June,Chicken Tossed Ramen,81,ramen_count,1.0,81.0,1138.02
+June,Chicken Tossed Ramen,81,pickle_cabbage,50.0,4050.0,1138.02
+June,Chicken Tossed Ramen,81,green_onion,20.0,1620.0,1138.02
+June,Chicken Tossed Ramen,81,cilantro,20.0,1620.0,1138.02
+June,Pork Ramen,77,braised_pork_g,140.0,10780.0,1034.83
+June,Pork Ramen,77,egg_count,0.5,38.5,1034.83
+June,Pork Ramen,77,ramen_count,1.0,77.0,1034.83
+June,Pork Ramen,77,green_onion,20.0,1540.0,1034.83
+June,Pork Ramen,77,cilantro,20.0,1540.0,1034.83
+June,Pork Ramen,77,bokchoy_g,50.0,3850.0,1034.83
+June,Chicken Fried Rice,47,braised_chicken_g,100.0,4700.0,588.99
+June,Chicken Fried Rice,47,egg_count,1.0,47.0,588.99
+June,Chicken Fried Rice,47,rice_g,350.0,16450.0,588.99
+June,Chicken Fried Rice,47,green_onion,20.0,940.0,588.99
+June,Chicken Fried Rice,47,white_onion,20.0,940.0,588.99
+June,Chicken Fried Rice,47,peas_g,10.0,470.0,588.99
+June,Chicken Fried Rice,47,carrot_g,10.0,470.0,588.99
+June,Pork Rice Noodle Soup,29,braised_pork_g,140.0,4060.0,389.42
+June,Pork Rice Noodle Soup,29,egg_count,0.5,14.5,389.42
+June,Pork Rice Noodle Soup,29,rice_noodles_g,300.0,8700.0,389.42
+June,Pork Rice Noodle Soup,29,green_onion,20.0,580.0,389.42
+June,Pork Rice Noodle Soup,29,cilantro,20.0,580.0,389.42
+June,Pork Rice Noodle Soup,29,bokchoy_g,50.0,1450.0,389.42
+June,Beef Fried Rice,18,braised_beef_g,100.0,1800.0,243.61
+June,Beef Fried Rice,18,egg_count,1.0,18.0,243.61
+June,Beef Fried Rice,18,rice_g,350.0,6300.0,243.61
+June,Beef Fried Rice,18,green_onion,20.0,360.0,243.61
+June,Beef Fried Rice,18,white_onion,20.0,360.0,243.61
+June,Beef Fried Rice,18,peas_g,10.0,180.0,243.61
+June,Beef Fried Rice,18,carrot_g,10.0,180.0,243.61
+June,Pork Fried Rice,12,braised_pork_g,100.0,1200.0,153.56
+June,Pork Fried Rice,12,egg_count,1.0,12.0,153.56
+June,Pork Fried Rice,12,rice_g,350.0,4200.0,153.56
+June,Pork Fried Rice,12,green_onion,20.0,240.0,153.56
+June,Pork Fried Rice,12,white_onion,20.0,240.0,153.56
+June,Pork Fried Rice,12,peas_g,10.0,120.0,153.56
+June,Pork Fried Rice,12,carrot_g,10.0,120.0,153.56
+July,Beef Tossed Ramen,321,braised_beef_g,140.0,44940.0,4564.29
+July,Beef Tossed Ramen,321,egg_count,0.5,160.5,4564.29
+July,Beef Tossed Ramen,321,ramen_count,1.0,321.0,4564.29
+July,Beef Tossed Ramen,321,pickle_cabbage,50.0,16050.0,4564.29
+July,Beef Tossed Ramen,321,green_onion,20.0,6420.0,4564.29
+July,Beef Tossed Ramen,321,cilantro,20.0,6420.0,4564.29
+July,Beef Tossed Ramen,321,bokchoy_g,50.0,16050.0,4564.29
+July,Beef Ramen,273,braised_beef_g,140.0,38220.0,3986.72
+July,Beef Ramen,273,egg_count,0.5,136.5,3986.72
+July,Beef Ramen,273,ramen_count,1.0,273.0,3986.72
+July,Beef Ramen,273,green_onion,20.0,5460.0,3986.72
+July,Beef Ramen,273,cilantro,20.0,5460.0,3986.72
+July,Chicken Rice Noodle Soup,173,braised_chicken_g,140.0,24220.0,2486.42
+July,Chicken Rice Noodle Soup,173,egg_count,0.5,86.5,2486.42
+July,Chicken Rice Noodle Soup,173,rice_noodles_g,300.0,51900.0,2486.42
+July,Chicken Rice Noodle Soup,173,green_onion,20.0,3460.0,2486.42
+July,Chicken Rice Noodle Soup,173,cilantro,20.0,3460.0,2486.42
+July,Chicken Rice Noodle Soup,173,bokchoy_g,50.0,8650.0,2486.42
+July,Chicken Ramen,127,braised_chicken_g,140.0,17780.0,1888.36
+July,Chicken Ramen,127,egg_count,0.5,63.5,1888.36
+July,Chicken Ramen,127,ramen_count,1.0,127.0,1888.36
+July,Chicken Ramen,127,green_onion,20.0,2540.0,1888.36
+July,Chicken Ramen,127,cilantro,20.0,2540.0,1888.36
+July,Chicken Ramen,127,bokchoy_g,50.0,6350.0,1888.36
+July,Pork Tossed Ramen,141,braised_pork_g,140.0,19740.0,1907.81
+July,Pork Tossed Ramen,141,egg_count,0.5,70.5,1907.81
+July,Pork Tossed Ramen,141,ramen_count,1.0,141.0,1907.81
+July,Pork Tossed Ramen,141,pickle_cabbage,50.0,7050.0,1907.81
+July,Pork Tossed Ramen,141,green_onion,20.0,2820.0,1907.81
+July,Pork Tossed Ramen,141,cilantro,20.0,2820.0,1907.81
+July,Chicken Tossed Ramen,110,braised_chicken_g,140.0,15400.0,1541.79
+July,Chicken Tossed Ramen,110,egg_count,0.5,55.0,1541.79
+July,Chicken Tossed Ramen,110,ramen_count,1.0,110.0,1541.79
+July,Chicken Tossed Ramen,110,pickle_cabbage,50.0,5500.0,1541.79
+July,Chicken Tossed Ramen,110,green_onion,20.0,2200.0,1541.79
+July,Chicken Tossed Ramen,110,cilantro,20.0,2200.0,1541.79
+July,Pork Ramen,95,braised_pork_g,140.0,13300.0,1321.41
+July,Pork Ramen,95,egg_count,0.5,47.5,1321.41
+July,Pork Ramen,95,ramen_count,1.0,95.0,1321.41
+July,Pork Ramen,95,green_onion,20.0,1900.0,1321.41
+July,Pork Ramen,95,cilantro,20.0,1900.0,1321.41
+July,Pork Ramen,95,bokchoy_g,50.0,4750.0,1321.41
+July,Chicken Tossed Rice Noodles,80,braised_chicken_g,140.0,11200.0,1168.76
+July,Chicken Tossed Rice Noodles,80,egg_count,0.5,40.0,1168.76
+July,Chicken Tossed Rice Noodles,80,rice_noodles_g,300.0,24000.0,1168.76
+July,Chicken Tossed Rice Noodles,80,pickle_cabbage,50.0,4000.0,1168.76
+July,Chicken Tossed Rice Noodles,80,green_onion,20.0,1600.0,1168.76
+July,Chicken Tossed Rice Noodles,80,cilantro,20.0,1600.0,1168.76
+July,Beef Rice Noodle Soup,66,braised_beef_g,140.0,9240.0,1036.74
+July,Beef Rice Noodle Soup,66,egg_count,0.5,33.0,1036.74
+July,Beef Rice Noodle Soup,66,rice_noodles_g,300.0,19800.0,1036.74
+July,Beef Rice Noodle Soup,66,green_onion,20.0,1320.0,1036.74
+July,Beef Rice Noodle Soup,66,cilantro,20.0,1320.0,1036.74
+July,Beef Rice Noodle Soup,66,bokchoy_g,50.0,3300.0,1036.74
+July,Chicken Fried Rice,44,braised_chicken_g,100.0,4400.0,571.13
+July,Chicken Fried Rice,44,egg_count,1.0,44.0,571.13
+July,Chicken Fried Rice,44,rice_g,350.0,15400.0,571.13
+July,Chicken Fried Rice,44,green_onion,20.0,880.0,571.13
+July,Chicken Fried Rice,44,white_onion,20.0,880.0,571.13
+July,Chicken Fried Rice,44,peas_g,10.0,440.0,571.13
+July,Chicken Fried Rice,44,carrot_g,10.0,440.0,571.13
+July,Pork Rice Noodle Soup,33,braised_pork_g,140.0,4620.0,444.59
+July,Pork Rice Noodle Soup,33,egg_count,0.5,16.5,444.59
+July,Pork Rice Noodle Soup,33,rice_noodles_g,300.0,9900.0,444.59
+July,Pork Rice Noodle Soup,33,green_onion,20.0,660.0,444.59
+July,Pork Rice Noodle Soup,33,cilantro,20.0,660.0,444.59
+July,Pork Rice Noodle Soup,33,bokchoy_g,50.0,1650.0,444.59
+July,Beef Fried Rice,18,braised_beef_g,100.0,1800.0,247.79
+July,Beef Fried Rice,18,egg_count,1.0,18.0,247.79
+July,Beef Fried Rice,18,rice_g,350.0,6300.0,247.79
+July,Beef Fried Rice,18,green_onion,20.0,360.0,247.79
+July,Beef Fried Rice,18,white_onion,20.0,360.0,247.79
+July,Beef Fried Rice,18,peas_g,10.0,180.0,247.79
+July,Beef Fried Rice,18,carrot_g,10.0,180.0,247.79
+July,Pork Fried Rice,13,braised_pork_g,100.0,1300.0,165.57
+July,Pork Fried Rice,13,egg_count,1.0,13.0,165.57
+July,Pork Fried Rice,13,rice_g,350.0,4550.0,165.57
+July,Pork Fried Rice,13,green_onion,20.0,260.0,165.57
+July,Pork Fried Rice,13,white_onion,20.0,260.0,165.57
+July,Pork Fried Rice,13,peas_g,10.0,130.0,165.57
+July,Pork Fried Rice,13,carrot_g,10.0,130.0,165.57
+August,Beef Ramen,328,braised_beef_g,140.0,45920.0,5032.52
+August,Beef Ramen,328,egg_count,0.5,164.0,5032.52
+August,Beef Ramen,328,ramen_count,1.0,328.0,5032.52
+August,Beef Ramen,328,green_onion,20.0,6560.0,5032.52
+August,Beef Ramen,328,cilantro,20.0,6560.0,5032.52
+August,Beef Tossed Ramen,214,braised_beef_g,140.0,29960.0,3166.6
+August,Beef Tossed Ramen,214,egg_count,0.5,107.0,3166.6
+August,Beef Tossed Ramen,214,ramen_count,1.0,214.0,3166.6
+August,Beef Tossed Ramen,214,pickle_cabbage,50.0,10700.0,3166.6
+August,Beef Tossed Ramen,214,green_onion,20.0,4280.0,3166.6
+August,Beef Tossed Ramen,214,cilantro,20.0,4280.0,3166.6
+August,Beef Tossed Ramen,214,bokchoy_g,50.0,10700.0,3166.6
+August,Chicken Ramen,181,braised_chicken_g,140.0,25340.0,2613.36
+August,Chicken Ramen,181,egg_count,0.5,90.5,2613.36
+August,Chicken Ramen,181,ramen_count,1.0,181.0,2613.36
+August,Chicken Ramen,181,green_onion,20.0,3620.0,2613.36
+August,Chicken Ramen,181,cilantro,20.0,3620.0,2613.36
+August,Chicken Ramen,181,bokchoy_g,50.0,9050.0,2613.36
+August,Pork Ramen,173,braised_pork_g,140.0,24220.0,2413.66
+August,Pork Ramen,173,egg_count,0.5,86.5,2413.66
+August,Pork Ramen,173,ramen_count,1.0,173.0,2413.66
+August,Pork Ramen,173,green_onion,20.0,3460.0,2413.66
+August,Pork Ramen,173,cilantro,20.0,3460.0,2413.66
+August,Pork Ramen,173,bokchoy_g,50.0,8650.0,2413.66
+August,Chicken Rice Noodle Soup,132,braised_chicken_g,140.0,18480.0,1922.45
+August,Chicken Rice Noodle Soup,132,egg_count,0.5,66.0,1922.45
+August,Chicken Rice Noodle Soup,132,rice_noodles_g,300.0,39600.0,1922.45
+August,Chicken Rice Noodle Soup,132,green_onion,20.0,2640.0,1922.45
+August,Chicken Rice Noodle Soup,132,cilantro,20.0,2640.0,1922.45
+August,Chicken Rice Noodle Soup,132,bokchoy_g,50.0,6600.0,1922.45
+August,Beef Rice Noodle Soup,123,braised_beef_g,140.0,17220.0,1889.06
+August,Beef Rice Noodle Soup,123,egg_count,0.5,61.5,1889.06
+August,Beef Rice Noodle Soup,123,rice_noodles_g,300.0,36900.0,1889.06
+August,Beef Rice Noodle Soup,123,green_onion,20.0,2460.0,1889.06
+August,Beef Rice Noodle Soup,123,cilantro,20.0,2460.0,1889.06
+August,Beef Rice Noodle Soup,123,bokchoy_g,50.0,6150.0,1889.06
+August,Chicken Tossed Rice Noodles,115,braised_chicken_g,140.0,16100.0,1648.14
+August,Chicken Tossed Rice Noodles,115,egg_count,0.5,57.5,1648.14
+August,Chicken Tossed Rice Noodles,115,rice_noodles_g,300.0,34500.0,1648.14
+August,Chicken Tossed Rice Noodles,115,pickle_cabbage,50.0,5750.0,1648.14
+August,Chicken Tossed Rice Noodles,115,green_onion,20.0,2300.0,1648.14
+August,Chicken Tossed Rice Noodles,115,cilantro,20.0,2300.0,1648.14
+August,Pork Tossed Ramen,116,braised_pork_g,140.0,16240.0,1553.8
+August,Pork Tossed Ramen,116,egg_count,0.5,58.0,1553.8
+August,Pork Tossed Ramen,116,ramen_count,1.0,116.0,1553.8
+August,Pork Tossed Ramen,116,pickle_cabbage,50.0,5800.0,1553.8
+August,Pork Tossed Ramen,116,green_onion,20.0,2320.0,1553.8
+August,Pork Tossed Ramen,116,cilantro,20.0,2320.0,1553.8
+August,Chicken Fried Rice,130,braised_chicken_g,100.0,13000.0,1568.64
+August,Chicken Fried Rice,130,egg_count,1.0,130.0,1568.64
+August,Chicken Fried Rice,130,rice_g,350.0,45500.0,1568.64
+August,Chicken Fried Rice,130,green_onion,20.0,2600.0,1568.64
+August,Chicken Fried Rice,130,white_onion,20.0,2600.0,1568.64
+August,Chicken Fried Rice,130,peas_g,10.0,1300.0,1568.64
+August,Chicken Fried Rice,130,carrot_g,10.0,1300.0,1568.64
+August,Chicken Tossed Ramen,101,braised_chicken_g,140.0,14140.0,1439.54
+August,Chicken Tossed Ramen,101,egg_count,0.5,50.5,1439.54
+August,Chicken Tossed Ramen,101,ramen_count,1.0,101.0,1439.54
+August,Chicken Tossed Ramen,101,pickle_cabbage,50.0,5050.0,1439.54
+August,Chicken Tossed Ramen,101,green_onion,20.0,2020.0,1439.54
+August,Chicken Tossed Ramen,101,cilantro,20.0,2020.0,1439.54
+August,Beef Fried Rice,75,braised_beef_g,100.0,7500.0,992.82
+August,Beef Fried Rice,75,egg_count,1.0,75.0,992.82
+August,Beef Fried Rice,75,rice_g,350.0,26250.0,992.82
+August,Beef Fried Rice,75,green_onion,20.0,1500.0,992.82
+August,Beef Fried Rice,75,white_onion,20.0,1500.0,992.82
+August,Beef Fried Rice,75,peas_g,10.0,750.0,992.82
+August,Beef Fried Rice,75,carrot_g,10.0,750.0,992.82
+August,Pork Rice Noodle Soup,63,braised_pork_g,140.0,8820.0,889.57
+August,Pork Rice Noodle Soup,63,egg_count,0.5,31.5,889.57
+August,Pork Rice Noodle Soup,63,rice_noodles_g,300.0,18900.0,889.57
+August,Pork Rice Noodle Soup,63,green_onion,20.0,1260.0,889.57
+August,Pork Rice Noodle Soup,63,cilantro,20.0,1260.0,889.57
+August,Pork Rice Noodle Soup,63,bokchoy_g,50.0,3150.0,889.57
+August,Pork Fried Rice,27,braised_pork_g,100.0,2700.0,344.44
+August,Pork Fried Rice,27,egg_count,1.0,27.0,344.44
+August,Pork Fried Rice,27,rice_g,350.0,9450.0,344.44
+August,Pork Fried Rice,27,green_onion,20.0,540.0,344.44
+August,Pork Fried Rice,27,white_onion,20.0,540.0,344.44
+August,Pork Fried Rice,27,peas_g,10.0,270.0,344.44
+August,Pork Fried Rice,27,carrot_g,10.0,270.0,344.44
+September,Beef Ramen,362,braised_beef_g,140.0,50680.0,5626.37
+September,Beef Ramen,362,egg_count,0.5,181.0,5626.37
+September,Beef Ramen,362,ramen_count,1.0,362.0,5626.37
+September,Beef Ramen,362,green_onion,20.0,7240.0,5626.37
+September,Beef Ramen,362,cilantro,20.0,7240.0,5626.37
+September,Pork Ramen,242,braised_pork_g,140.0,33880.0,3360.22
+September,Pork Ramen,242,egg_count,0.5,121.0,3360.22
+September,Pork Ramen,242,ramen_count,1.0,242.0,3360.22
+September,Pork Ramen,242,green_onion,20.0,4840.0,3360.22
+September,Pork Ramen,242,cilantro,20.0,4840.0,3360.22
+September,Pork Ramen,242,bokchoy_g,50.0,12100.0,3360.22
+September,Chicken Ramen,205,braised_chicken_g,140.0,28700.0,2976.79
+September,Chicken Ramen,205,egg_count,0.5,102.5,2976.79
+September,Chicken Ramen,205,ramen_count,1.0,205.0,2976.79
+September,Chicken Ramen,205,green_onion,20.0,4100.0,2976.79
+September,Chicken Ramen,205,cilantro,20.0,4100.0,2976.79
+September,Chicken Ramen,205,bokchoy_g,50.0,10250.0,2976.79
+September,Beef Tossed Ramen,188,braised_beef_g,140.0,26320.0,2867.41
+September,Beef Tossed Ramen,188,egg_count,0.5,94.0,2867.41
+September,Beef Tossed Ramen,188,ramen_count,1.0,188.0,2867.41
+September,Beef Tossed Ramen,188,pickle_cabbage,50.0,9400.0,2867.41
+September,Beef Tossed Ramen,188,green_onion,20.0,3760.0,2867.41
+September,Beef Tossed Ramen,188,cilantro,20.0,3760.0,2867.41
+September,Beef Tossed Ramen,188,bokchoy_g,50.0,9400.0,2867.41
+September,Chicken Rice Noodle Soup,133,braised_chicken_g,140.0,18620.0,1961.81
+September,Chicken Rice Noodle Soup,133,egg_count,0.5,66.5,1961.81
+September,Chicken Rice Noodle Soup,133,rice_noodles_g,300.0,39900.0,1961.81
+September,Chicken Rice Noodle Soup,133,green_onion,20.0,2660.0,1961.81
+September,Chicken Rice Noodle Soup,133,cilantro,20.0,2660.0,1961.81
+September,Chicken Rice Noodle Soup,133,bokchoy_g,50.0,6650.0,1961.81
+September,Chicken Fried Rice,148,braised_chicken_g,100.0,14800.0,1849.24
+September,Chicken Fried Rice,148,egg_count,1.0,148.0,1849.24
+September,Chicken Fried Rice,148,rice_g,350.0,51800.0,1849.24
+September,Chicken Fried Rice,148,green_onion,20.0,2960.0,1849.24
+September,Chicken Fried Rice,148,white_onion,20.0,2960.0,1849.24
+September,Chicken Fried Rice,148,peas_g,10.0,1480.0,1849.24
+September,Chicken Fried Rice,148,carrot_g,10.0,1480.0,1849.24
+September,Beef Rice Noodle Soup,115,braised_beef_g,140.0,16100.0,1807.11
+September,Beef Rice Noodle Soup,115,egg_count,0.5,57.5,1807.11
+September,Beef Rice Noodle Soup,115,rice_noodles_g,300.0,34500.0,1807.11
+September,Beef Rice Noodle Soup,115,green_onion,20.0,2300.0,1807.11
+September,Beef Rice Noodle Soup,115,cilantro,20.0,2300.0,1807.11
+September,Beef Rice Noodle Soup,115,bokchoy_g,50.0,5750.0,1807.11
+September,Pork Tossed Ramen,137,braised_pork_g,140.0,19180.0,1810.77
+September,Pork Tossed Ramen,137,egg_count,0.5,68.5,1810.77
+September,Pork Tossed Ramen,137,ramen_count,1.0,137.0,1810.77
+September,Pork Tossed Ramen,137,pickle_cabbage,50.0,6850.0,1810.77
+September,Pork Tossed Ramen,137,green_onion,20.0,2740.0,1810.77
+September,Pork Tossed Ramen,137,cilantro,20.0,2740.0,1810.77
+September,Chicken Tossed Rice Noodles,104,braised_chicken_g,140.0,14560.0,1523.75
+September,Chicken Tossed Rice Noodles,104,egg_count,0.5,52.0,1523.75
+September,Chicken Tossed Rice Noodles,104,rice_noodles_g,300.0,31200.0,1523.75
+September,Chicken Tossed Rice Noodles,104,pickle_cabbage,50.0,5200.0,1523.75
+September,Chicken Tossed Rice Noodles,104,green_onion,20.0,2080.0,1523.75
+September,Chicken Tossed Rice Noodles,104,cilantro,20.0,2080.0,1523.75
+September,Pork Rice Noodle Soup,95,braised_pork_g,140.0,13300.0,1299.33
+September,Pork Rice Noodle Soup,95,egg_count,0.5,47.5,1299.33
+September,Pork Rice Noodle Soup,95,rice_noodles_g,300.0,28500.0,1299.33
+September,Pork Rice Noodle Soup,95,green_onion,20.0,1900.0,1299.33
+September,Pork Rice Noodle Soup,95,cilantro,20.0,1900.0,1299.33
+September,Pork Rice Noodle Soup,95,bokchoy_g,50.0,4750.0,1299.33
+September,Chicken Tossed Ramen,98,braised_chicken_g,140.0,13720.0,1399.24
+September,Chicken Tossed Ramen,98,egg_count,0.5,49.0,1399.24
+September,Chicken Tossed Ramen,98,ramen_count,1.0,98.0,1399.24
+September,Chicken Tossed Ramen,98,pickle_cabbage,50.0,4900.0,1399.24
+September,Chicken Tossed Ramen,98,green_onion,20.0,1960.0,1399.24
+September,Chicken Tossed Ramen,98,cilantro,20.0,1960.0,1399.24
+September,Beef Fried Rice,63,braised_beef_g,100.0,6300.0,831.05
+September,Beef Fried Rice,63,egg_count,1.0,63.0,831.05
+September,Beef Fried Rice,63,rice_g,350.0,22050.0,831.05
+September,Beef Fried Rice,63,green_onion,20.0,1260.0,831.05
+September,Beef Fried Rice,63,white_onion,20.0,1260.0,831.05
+September,Beef Fried Rice,63,peas_g,10.0,630.0,831.05
+September,Beef Fried Rice,63,carrot_g,10.0,630.0,831.05
+September,Pork Fried Rice,40,braised_pork_g,100.0,4000.0,534.8
+September,Pork Fried Rice,40,egg_count,1.0,40.0,534.8
+September,Pork Fried Rice,40,rice_g,350.0,14000.0,534.8
+September,Pork Fried Rice,40,green_onion,20.0,800.0,534.8
+September,Pork Fried Rice,40,white_onion,20.0,800.0,534.8
+September,Pork Fried Rice,40,peas_g,10.0,400.0,534.8
+September,Pork Fried Rice,40,carrot_g,10.0,400.0,534.8
+October,Beef Ramen,357,braised_beef_g,140.0,49980.0,5600.47
+October,Beef Ramen,357,egg_count,0.5,178.5,5600.47
+October,Beef Ramen,357,ramen_count,1.0,357.0,5600.47
+October,Beef Ramen,357,green_onion,20.0,7140.0,5600.47
+October,Beef Ramen,357,cilantro,20.0,7140.0,5600.47
+October,Pork Ramen,227,braised_pork_g,140.0,31780.0,3194.81
+October,Pork Ramen,227,egg_count,0.5,113.5,3194.81
+October,Pork Ramen,227,ramen_count,1.0,227.0,3194.81
+October,Pork Ramen,227,green_onion,20.0,4540.0,3194.81
+October,Pork Ramen,227,cilantro,20.0,4540.0,3194.81
+October,Pork Ramen,227,bokchoy_g,50.0,11350.0,3194.81
+October,Chicken Ramen,204,braised_chicken_g,140.0,28560.0,2934.9
+October,Chicken Ramen,204,egg_count,0.5,102.0,2934.9
+October,Chicken Ramen,204,ramen_count,1.0,204.0,2934.9
+October,Chicken Ramen,204,green_onion,20.0,4080.0,2934.9
+October,Chicken Ramen,204,cilantro,20.0,4080.0,2934.9
+October,Chicken Ramen,204,bokchoy_g,50.0,10200.0,2934.9
+October,Beef Tossed Ramen,170,braised_beef_g,140.0,23800.0,2547.87
+October,Beef Tossed Ramen,170,egg_count,0.5,85.0,2547.87
+October,Beef Tossed Ramen,170,ramen_count,1.0,170.0,2547.87
+October,Beef Tossed Ramen,170,pickle_cabbage,50.0,8500.0,2547.87
+October,Beef Tossed Ramen,170,green_onion,20.0,3400.0,2547.87
+October,Beef Tossed Ramen,170,cilantro,20.0,3400.0,2547.87
+October,Beef Tossed Ramen,170,bokchoy_g,50.0,8500.0,2547.87
+October,Chicken Fried Rice,190,braised_chicken_g,100.0,19000.0,2379.19
+October,Chicken Fried Rice,190,egg_count,1.0,190.0,2379.19
+October,Chicken Fried Rice,190,rice_g,350.0,66500.0,2379.19
+October,Chicken Fried Rice,190,green_onion,20.0,3800.0,2379.19
+October,Chicken Fried Rice,190,white_onion,20.0,3800.0,2379.19
+October,Chicken Fried Rice,190,peas_g,10.0,1900.0,2379.19
+October,Chicken Fried Rice,190,carrot_g,10.0,1900.0,2379.19
+October,Chicken Rice Noodle Soup,133,braised_chicken_g,140.0,18620.0,1979.08
+October,Chicken Rice Noodle Soup,133,egg_count,0.5,66.5,1979.08
+October,Chicken Rice Noodle Soup,133,rice_noodles_g,300.0,39900.0,1979.08
+October,Chicken Rice Noodle Soup,133,green_onion,20.0,2660.0,1979.08
+October,Chicken Rice Noodle Soup,133,cilantro,20.0,2660.0,1979.08
+October,Chicken Rice Noodle Soup,133,bokchoy_g,50.0,6650.0,1979.08
+October,Pork Tossed Ramen,144,braised_pork_g,140.0,20160.0,1917.99
+October,Pork Tossed Ramen,144,egg_count,0.5,72.0,1917.99
+October,Pork Tossed Ramen,144,ramen_count,1.0,144.0,1917.99
+October,Pork Tossed Ramen,144,pickle_cabbage,50.0,7200.0,1917.99
+October,Pork Tossed Ramen,144,green_onion,20.0,2880.0,1917.99
+October,Pork Tossed Ramen,144,cilantro,20.0,2880.0,1917.99
+October,Beef Rice Noodle Soup,118,braised_beef_g,140.0,16520.0,1837.62
+October,Beef Rice Noodle Soup,118,egg_count,0.5,59.0,1837.62
+October,Beef Rice Noodle Soup,118,rice_noodles_g,300.0,35400.0,1837.62
+October,Beef Rice Noodle Soup,118,green_onion,20.0,2360.0,1837.62
+October,Beef Rice Noodle Soup,118,cilantro,20.0,2360.0,1837.62
+October,Beef Rice Noodle Soup,118,bokchoy_g,50.0,5900.0,1837.62
+October,Chicken Tossed Ramen,93,braised_chicken_g,140.0,13020.0,1317.34
+October,Chicken Tossed Ramen,93,egg_count,0.5,46.5,1317.34
+October,Chicken Tossed Ramen,93,ramen_count,1.0,93.0,1317.34
+October,Chicken Tossed Ramen,93,pickle_cabbage,50.0,4650.0,1317.34
+October,Chicken Tossed Ramen,93,green_onion,20.0,1860.0,1317.34
+October,Chicken Tossed Ramen,93,cilantro,20.0,1860.0,1317.34
+October,Beef Fried Rice,82,braised_beef_g,100.0,8200.0,1175.2
+October,Beef Fried Rice,82,egg_count,1.0,82.0,1175.2
+October,Beef Fried Rice,82,rice_g,350.0,28700.0,1175.2
+October,Beef Fried Rice,82,green_onion,20.0,1640.0,1175.2
+October,Beef Fried Rice,82,white_onion,20.0,1640.0,1175.2
+October,Beef Fried Rice,82,peas_g,10.0,820.0,1175.2
+October,Beef Fried Rice,82,carrot_g,10.0,820.0,1175.2
+October,Chicken Tossed Rice Noodles,73,braised_chicken_g,140.0,10220.0,1041.0
+October,Chicken Tossed Rice Noodles,73,egg_count,0.5,36.5,1041.0
+October,Chicken Tossed Rice Noodles,73,rice_noodles_g,300.0,21900.0,1041.0
+October,Chicken Tossed Rice Noodles,73,pickle_cabbage,50.0,3650.0,1041.0
+October,Chicken Tossed Rice Noodles,73,green_onion,20.0,1460.0,1041.0
+October,Chicken Tossed Rice Noodles,73,cilantro,20.0,1460.0,1041.0
+October,Pork Rice Noodle Soup,68,braised_pork_g,140.0,9520.0,933.28
+October,Pork Rice Noodle Soup,68,egg_count,0.5,34.0,933.28
+October,Pork Rice Noodle Soup,68,rice_noodles_g,300.0,20400.0,933.28
+October,Pork Rice Noodle Soup,68,green_onion,20.0,1360.0,933.28
+October,Pork Rice Noodle Soup,68,cilantro,20.0,1360.0,933.28
+October,Pork Rice Noodle Soup,68,bokchoy_g,50.0,3400.0,933.28
+October,Pork Fried Rice,40,braised_pork_g,100.0,4000.0,588.41
+October,Pork Fried Rice,40,egg_count,1.0,40.0,588.41
+October,Pork Fried Rice,40,rice_g,350.0,14000.0,588.41
+October,Pork Fried Rice,40,green_onion,20.0,800.0,588.41
+October,Pork Fried Rice,40,white_onion,20.0,800.0,588.41
+October,Pork Fried Rice,40,peas_g,10.0,400.0,588.41
+October,Pork Fried Rice,40,carrot_g,10.0,400.0,588.41

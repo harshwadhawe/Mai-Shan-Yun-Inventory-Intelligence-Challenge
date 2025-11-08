@@ -1,0 +1,796 @@
+month,data_level,level_name,Count,Amount,source_page,source_table,source_file,sheet_name
+May,group,Lunch Menu,269,3783.26,1,1,May_Data_Matrix (1).xlsx,data 1
+May,group,Open Food,2,4.52,1,1,May_Data_Matrix (1).xlsx,data 1
+May,group,All Day Menu,8464,61296.15,1,1,May_Data_Matrix (1).xlsx,data 1
+May,category,Fried Chicken,787,7935.26,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Combo Items,0,0.0,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Drink,3169,2922.54,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Additonal,175,358.48,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Rice Noodle,524,7698.91,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Wonton,50,546.94,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Milk Tea,244,1108.72,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Combo Items Donot Delete,0,0.0,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Appetizer,1146,6217.05,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Ramen,816,12118.38,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Tossed Rice Noodle,398,6000.15,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Lunch Special,269,3783.26,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Tossed Ramen,941,13539.42,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Fried Rice,214,2850.3,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Open Food,2,4.52,1,1,May_Data_Matrix (1).xlsx,data 2
+May,item,Beef Tossed Ramen,468,6921.26,1,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Beef Ramen,339,5045.65,1,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Lunch Special,269,3783.26,1,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Pork Tossed Ramen,260,3526.47,1,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Chicken Rice Noodle Soup,233,3303.84,1,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Chicken Ramen,222,3313.0,1,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Mai Special Fried Chicken(8),309,3089.87,1,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Beef Tossed Rice Noodle,195,3102.44,1,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Chicken Tossed Ramen,200,2906.3,1,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Beef Rice Noodle Soup,147,2316.04,1,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Pork Ramen,131,1845.21,1,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Chicken Tossed Rice Noodles,118,1726.89,1,1,May_Data_Matrix (1).xlsx,data 3
+May,item,House Ramen,91,1474.52,1,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Mai's Golden Flake Fried Chicken(8),138,1378.05,1,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Fried Pork Dumplings(10),119,1063.71,1,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Pork Tossed Rice Noodle,72,992.7,1,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Golden Coconut Crunch Chicken(8),96,982.35,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Pork Rice Noodle Soup,72,986.46,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Chicken Fried Rice,80,1000.1,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Mai OG Fried Chicken Wings(4),193,960.71,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Brown Sugar Milk Tea w. Boba (24oz),196,888.71,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Steam Pork Dumplings(10),94,819.22,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Crispy Spring Roll(3),185,726.44,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,House Rice Noodle Soup,42,684.02,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,House Fried Rice,46,692.23,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Tempura Shrimp(3),138,674.01,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Crispy Pork Egg Roll(3),162,651.24,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Onion Glory Fried Chicken(8),59,589.13,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Strawberry Sunrise Tea,152,555.16,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Sichuan Chili Wontons,50,546.94,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Vegetable Ramen,33,440.0,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Vegetable Rice Noodle Soup,30,408.55,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Citrus Honey Fried Chicken  (8),43,434.87,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Beef Fried Rice,28,377.5,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Shrimp Fried Rice,29,389.91,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Mai Buffalo Chicken Wings(8),35,346.69,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Golden kiwi,87,316.02,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Dr. Pepper,118,344.71,2,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Cream Cheese Wonton（6）,60,352.83,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Specialty Drink,115,338.5,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Diet Pepsi,97,284.98,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Spicy Cucumber Salad,46,249.14,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Pepsi,83,238.52,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Cream Cheese Rangoon(6),47,263.68,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Pork Fried Rice,17,213.55,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Sweet Ice Tea,79,228.04,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Unsweet Ice Tea,69,197.17,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Crispy French Fries,47,184.56,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,BF chicken cutlet combo,20,242.53,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Wasabi Spiced Fried Chicken (8),16,158.84,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Tangy Honey Mustard Fried Chicken (8),19,186.57,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Vegetable Fried Rice,14,177.0,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Milk Tea(20oz),31,153.81,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Vegetable Tossed Ramen,11,153.95,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Wasabi Spiced Fried Chicken(8),12,138.88,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Tangy Honey Mustard Fried Chicken(8),11,129.49,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Chili Pepper Fried Chicken（8）,13,129.11,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Starry - Sprite,45,132.29,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Braised Chicken Thigh,36,106.77,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Vegetable Tossed Rice Noodle,9,114.96,3,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Brown Sugar Rice Cake,22,117.14,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Lemonade,35,100.73,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Jumbo Chicken Tender (3),19,90.93,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,House Tossed Rice Noodle,4,63.16,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Chili Pepper Fried Chicken (8),6,62.94,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Brown Sugar Milk Tea NO BOBA (24oz),17,66.2,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,White Rice - DINE IN,52,52.44,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Bottled Soda,21,42.19,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Hot Tea,13,38.39,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Crispy French Fries(LG),8,33.92,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,BF chicken cutlet,10,65.93,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Plain Fried Rice,15,45.49,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Orange Crush,10,29.74,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Rice Noodle,17,25.8,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,White Rice-To Go,6,21.0,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Sweet Sesame Ball,5,25.02,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,White Rice,5,20.16,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,House Tossed Ramen,2,31.44,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Ramune - Original,4,13.76,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Chunked Beef,4,15.96,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Braised Chicken,5,16.9,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,soup to go,7,10.47,4,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Ramen,6,9.0,5,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Mai‘s Special Sauce,11,10.72,5,1,May_Data_Matrix (1).xlsx,data 3
+May,item,北冰洋 Orange Soda,2,7.18,5,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Pepsi Zero,2,7.18,5,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Sweet Tea,2,7.18,5,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Braised Pork,3,9.22,5,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Shrimp,2,5.98,5,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Bottled Water,3,5.97,5,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Open Food,2,4.52,5,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Braised Egg,2,4.3,5,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Mai‘s special Sauce,4,4.26,5,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Ramune - Orange,1,3.59,5,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Starry,1,3.59,5,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Ramune - Melon,1,2.99,5,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Ramune - Strawberry,2,6.28,5,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Water,2122,0.0,5,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Sweet Sesame Ball (6) w. red bean,1,4.5,5,1,May_Data_Matrix (1).xlsx,data 3
+May,item,Golden kiwi,5,18.38,5,1,May_Data_Matrix (1).xlsx,data 3
+June,group,Lunch Menu,222,3089.08,1,1,June_Data_Matrix.xlsx,data 1
+June,group,All Day Menu,5415,39433.25,1,1,June_Data_Matrix.xlsx,data 1
+June,group,Open Food,1,5.0,1,1,June_Data_Matrix.xlsx,data 1
+June,category,Tossed Ramen,510,7287.69,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Tossed Rice Noodle,243,3652.73,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Ramen,479,7108.15,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Appetizer,836,4487.7,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Additonal,127,255.81,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Fried Rice,146,1967.46,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Fried Chicken,551,5725.04,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Lunch Special,222,3089.08,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Prep item,0,0.0,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Wonton,103,1187.4,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Milk Tea,189,836.14,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Special Offer,37,472.38,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Combo Items,0,0.0,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Drink,1896,2086.79,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Open Food,1,5.0,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Rice Noodle,298,4365.96,1,1,June_Data_Matrix.xlsx,data 2
+June,item,Beef Tossed Ramen,286,4248.69,1,1,June_Data_Matrix.xlsx,data 3
+June,item,Lunch Special,222,3089.08,1,1,June_Data_Matrix.xlsx,data 3
+June,item,Beef Ramen,195,2907.79,1,1,June_Data_Matrix.xlsx,data 3
+June,item,Chicken Rice Noodle Soup,153,2196.39,1,1,June_Data_Matrix.xlsx,data 3
+June,item,Beef Tossed Rice Noodle,113,1771.24,1,1,June_Data_Matrix.xlsx,data 3
+June,item,BF chicken cutlet combo,142,1722.24,1,1,June_Data_Matrix.xlsx,data 3
+June,item,Pork Tossed Ramen,134,1769.95,1,1,June_Data_Matrix.xlsx,data 3
+June,item,Chicken Ramen,117,1724.75,1,1,June_Data_Matrix.xlsx,data 3
+June,item,Beef Rice Noodle Soup,81,1241.45,1,1,June_Data_Matrix.xlsx,data 3
+June,item,Mai Special Fried Chicken(8),127,1283.91,1,1,June_Data_Matrix.xlsx,data 3
+June,item,Chicken Tossed Rice Noodles,78,1176.77,1,1,June_Data_Matrix.xlsx,data 3
+June,item,Sichuan Chili Wontons,103,1187.4,1,1,June_Data_Matrix.xlsx,data 3
+June,item,Chicken Tossed Ramen,81,1138.02,1,1,June_Data_Matrix.xlsx,data 3
+June,item,House Ramen,65,1077.79,1,1,June_Data_Matrix.xlsx,data 3
+June,item,Pork Ramen,77,1034.83,1,1,June_Data_Matrix.xlsx,data 3
+June,item,Golden Coconut Crunch Chicken(8),71,715.74,1,1,June_Data_Matrix.xlsx,data 3
+June,item,Mai's Golden Flake Fried Chicken(8),66,660.27,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Chicken Fried Rice,47,588.99,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Fried Pork Dumplings(10),63,576.99,2,1,June_Data_Matrix.xlsx,data 3
+June,item,House Fried Rice,37,560.07,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Mai OG Fried Chicken Wings(4),112,566.58,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Cream Cheese Rangoon(6),95,555.17,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Pork Tossed Rice Noodle,43,575.37,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Crispy Pork Egg Roll(3),121,482.76,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Crispy Spring Roll(3),119,475.5,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Steam Pork Dumplings(10),54,475.34,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Brown Sugar Milk Tea w. Boba (24oz),103,441.87,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Pork Rice Noodle Soup,29,389.42,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Tempura Shrimp(3),83,407.11,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Vegetable Ramen,25,362.99,2,1,June_Data_Matrix.xlsx,data 3
+June,item,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",24,302.59,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Onion Glory Fried Chicken(8),31,307.44,2,1,June_Data_Matrix.xlsx,data 3
+June,item,House Rice Noodle Soup,20,339.85,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Dr. Pepper,90,268.22,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Spicy Cucumber Salad,47,252.68,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Golden kiwi,62,226.72,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Shrimp Fried Rice,18,249.85,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Citrus Honey Fried Chicken  (8),24,241.8,2,1,June_Data_Matrix.xlsx,data 3
+June,item,Unsweet Ice Tea,79,232.93,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Beef Fried Rice,18,243.61,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Strawberry Sunrise Tea,62,235.51,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Pepsi,75,216.23,3,1,June_Data_Matrix.xlsx,data 3
+June,item,BF chicken cutlet,33,222.28,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Sweet Ice Tea,76,220.93,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Mai Buffalo Chicken Wings(8),21,207.85,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Vegetable Rice Noodle Soup,15,198.84,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Specialty Drink,72,212.94,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Vegetable Fried Rice,14,171.38,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Pork Fried Rice,12,153.56,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Pork Bun (3),28,159.05,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Diet Pepsi,55,161.9,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Brown Sugar Rice Cake (5),22,119.12,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Jumbo Chicken Tender (3),21,118.76,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Vegetable Tossed Rice Noodle,8,113.36,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Crispy French Fries,36,140.51,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Mai's Wing Wheel,8,99.79,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Tangy Honey Mustard Fried Chicken (8),12,111.7,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Sweet Sesame Ball (6) w. red bean,20,94.8,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Milk Tea(20oz),19,95.35,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Thai Milk Tea w. Boba (24oz)-1,19,88.18,3,1,June_Data_Matrix.xlsx,data 3
+June,item,Starry - Sprite,28,81.51,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Chili Pepper Fried Chicken（8）,7,69.0,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Wasabi Spiced Fried Chicken (8),7,68.93,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Vegetable Tossed Ramen,7,99.05,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Braised Chicken Thigh,21,66.77,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Thai Milk Tea w. Boba (24oz),15,65.55,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Lemonade,23,64.11,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Mai BF Chicken Cutlet Combo,5,70.0,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Chili Pepper Fried Chicken (8),4,45.96,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Cream Cheese Wonton（6）,7,38.93,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Brown Sugar Milk Tea NO BOBA (24oz),9,35.56,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Rice Noodle,25,37.73,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Wasabi Spiced Fried Chicken(8),3,33.97,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Bottled Soda,17,32.61,4,1,June_Data_Matrix.xlsx,data 3
+June,item,White Rice - DINE IN,35,34.5,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Mango Milk Tea (24oz),7,32.87,4,1,June_Data_Matrix.xlsx,data 3
+June,item,White Rice,7,26.6,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Plain Fried Rice,8,29.99,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Hot Tea,12,29.36,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Orange Crush,7,22.13,4,1,June_Data_Matrix.xlsx,data 3
+June,item,Mango Milk Tea,4,19.62,4,1,June_Data_Matrix.xlsx,data 3
+June,item,House Tossed Rice Noodle,1,15.99,4,1,June_Data_Matrix.xlsx,data 3
+June,item,House Tossed Ramen,2,31.98,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Thai Milk Tea NO BOBA (24oz),5,19.71,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Bottled Water,7,15.1,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Thai Milk Tea,4,20.4,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Crispy French Fries(LG),3,14.37,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Pepsi Zero,4,14.36,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Braised Chicken,4,11.88,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Pork Bun (1),5,10.01,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Tangy Honey Mustard Fried Chicken(8),3,33.97,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Ramen,6,8.55,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Braised Egg,4,8.36,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Chunked Beef,2,7.87,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Strawberry Milk Tea  (24oz),3,11.33,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Ramune - Original,2,5.98,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Braised Pork,2,5.87,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Mai‘s Special Sauce,6,5.8,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Shrimp (8),2,5.25,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Open Food,1,5.0,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Sweet Tea,1,3.59,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Ramune - Melon,1,3.59,5,1,June_Data_Matrix.xlsx,data 3
+June,item,北冰洋 Orange Soda,1,3.59,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Ramune - Strawberry,1,2.99,5,1,June_Data_Matrix.xlsx,data 3
+June,item,Mai‘s special Sauce,2,2.2,6,1,June_Data_Matrix.xlsx,data 3
+June,item,Braised Egg （2）,1,1.94,6,1,June_Data_Matrix.xlsx,data 3
+June,item,White Rice-To Go,1,1.75,6,1,June_Data_Matrix.xlsx,data 3
+June,item,Add Boba,1,0.75,6,1,June_Data_Matrix.xlsx,data 3
+June,item,Water,1156,0.0,6,1,June_Data_Matrix.xlsx,data 3
+June,item,Thai Milk Tea (24oz),1,5.7,6,1,June_Data_Matrix.xlsx,data 3
+June,item,Golden kiwi,9,32.49,6,1,June_Data_Matrix.xlsx,data 3
+July,group,All Day Menu,5877,43088.72,1,1,July_Data_Matrix (1).xlsx,data 1
+July,group,Lunch Menu,213,2994.75,1,1,July_Data_Matrix (1).xlsx,data 1
+July,group,Gift Card,1,5.99,1,1,July_Data_Matrix (1).xlsx,data 1
+July,group,Open Food,3,5.75,1,1,July_Data_Matrix (1).xlsx,data 1
+July,category,Lunch Special,213,2994.75,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Milk Tea,256,1120.75,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Prep item,42,0.0,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Fried Rice,130,1748.27,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Appetizer,901,5012.23,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Fried Chicken,452,4676.16,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Additonal,91,204.2,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Ramen,618,9153.54,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Tossed Ramen,581,8147.01,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Tossed Rice Noodle,252,3778.39,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Gift Card,1,5.99,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Rice Noodle,315,4621.24,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Combo Items,0,0.0,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Drink,2039,2445.01,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Open Food,3,5.75,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Special Offer,118,1271.28,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Wonton,82,910.64,2,1,July_Data_Matrix (1).xlsx,data 2
+July,item,Beef Tossed Ramen,321,4564.29,1,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Beef Ramen,273,3986.72,1,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Lunch Special,213,2994.75,1,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Chicken Rice Noodle Soup,173,2486.42,1,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Chicken Ramen,127,1888.36,1,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Beef Tossed Rice Noodle,112,1798.91,1,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Pork Tossed Ramen,141,1907.81,1,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Chicken Tossed Ramen,110,1541.79,1,1,July_Data_Matrix (1).xlsx,data 3
+July,item,House Ramen,84,1428.07,1,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Mai Special Fried Chicken(8),152,1531.62,1,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Pork Ramen,95,1321.41,1,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Chicken Tossed Rice Noodles,80,1168.76,1,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Beef Rice Noodle Soup,66,1036.74,1,1,July_Data_Matrix (1).xlsx,data 3
+July,item,BF chicken cutlet combo,77,943.49,1,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Sichuan Chili Wontons,82,910.64,1,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Fried Pork Dumplings(10),85,763.31,1,1,July_Data_Matrix (1).xlsx,data 3
+July,item,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",55,696.19,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Cream Cheese Rangoon(6),110,660.64,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Pork Tossed Rice Noodle,48,633.9,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Mai's Golden Flake Fried Chicken(8),67,680.49,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Steam Pork Dumplings(10),71,633.5,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Mai OG Fried Chicken Wings(4),116,587.7,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Crispy Spring Roll(3),137,549.0,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Vegetable Ramen,39,528.97,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Chicken Fried Rice,44,571.13,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Golden Coconut Crunch Chicken(8),52,524.09,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Crispy Pork Egg Roll(3),119,477.61,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Pork Rice Noodle Soup,33,444.59,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Pork Bun (3),74,437.03,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,House Fried Rice,29,419.2,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Brown Sugar Milk Tea w. Boba (24oz),101,424.51,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Tempura Shrimp(3),76,376.69,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Dr. Pepper,111,327.63,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,House Rice Noodle Soup,21,339.32,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Citrus Honey Fried Chicken  (8),28,275.98,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Shrimp Fried Rice,19,257.36,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Vegetable Rice Noodle Soup,22,314.18,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Beef Fried Rice,18,247.79,2,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Mai BF Chicken Cutlet Combo,16,225.0,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Sweet Ice Tea,83,238.63,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Steam Pork Bun （3）,37,251.63,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Diet Pepsi,67,198.32,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Specialty Drink,78,224.43,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Unsweet Ice Tea,78,218.33,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Thai Milk Tea w. Boba (24oz),50,200.73,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Pepsi,73,208.47,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Onion Glory Fried Chicken(8),19,180.3,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Pork Fried Rice,13,165.57,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Spicy Cucumber Salad,29,152.92,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Vegetable Tossed Rice Noodle,11,161.14,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Milk Tea(24oz),28,152.95,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Golden kiwi (16oz),42,161.82,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Strawberry Sunrise（16oz),42,152.64,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Strawberry Sunrise Tea,33,122.66,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Mai Buffalo Chicken Wings(8),14,140.33,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Jumbo Chicken Tenders Combo (3),10,98.46,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Starry - Sprite,35,100.88,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Thai Milk Tea (24oz),17,91.2,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Vegetable Fried Rice,7,87.21,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,BF chicken cutlet,13,85.12,3,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Jumbo Chicken Tender (3),17,84.58,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Strawberry Sunrise（24oz),20,85.02,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Brown Sugar Rice Cake (5),14,75.69,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Crispy French Fries,22,85.08,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Lemonade,27,76.64,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Chili Pepper Fried Chicken（8）,7,69.43,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Tangy Honey Mustard Fried Chicken (8),8,77.46,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Vegetable Tossed Ramen,5,67.24,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Sweet Sesame Ball (6) w. red bean,15,71.72,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Golden kiwi (24oz),17,76.02,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Wasabi Spiced Fried Chicken(8),5,59.95,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Wasabi Spiced Fried Chicken (8),6,59.94,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Mango Milk Tea (24oz),13,59.73,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Brown Sugar Milk Tea NO BOBA (24oz),15,56.89,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Thai Milk Tea NO BOBA (24oz),17,67.67,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Strawberry Milk Tea  (24oz),15,67.07,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,House Tossed Ramen,4,65.88,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Orange Crush,15,45.72,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Hot Tea,18,52.81,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Golden kiwi,12,42.72,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Tangy Honey Mustard Fried Chicken(8),3,35.97,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Plain Fried Rice,10,38.87,4,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Pepsi zero,11,32.51,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Chunked Beef,7,27.87,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Crispy French Fries(LG),6,26.34,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Bottled Soda,17,30.15,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Rice Noodle,12,18.35,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Pork Bun (1),9,19.91,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Ramen,13,19.33,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Braised Egg （2 half）,9,17.66,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,House Tossed Rice Noodle,1,15.68,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,White Rice-To Go,4,14.0,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,White Rice - DINE IN,16,15.8,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Chili Pepper Fried Chicken (8),1,11.99,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Shrimp (8),5,14.88,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Bottled Water,7,13.7,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Chicken Tender combo w fries and drink,1,10.5,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Braised Pork,3,8.62,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Milkis,2,7.18,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Unsweet Tea,2,7.18,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,White Rice,3,11.2,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Gift Card,1,5.99,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Open Food,3,5.75,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Ramune - Melon,1,3.59,5,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Starry,1,3.59,6,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Ramune - Strawberry,1,3.59,6,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Coconut Milk,1,3.59,6,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Ramune - Grape,1,3.59,6,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Braised Chicken,2,6.58,6,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Mai‘s special Sauce,2,2.4,6,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Braised Egg,2,4.78,6,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Braised Egg （2）,1,1.89,6,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Mai‘s Special Sauce,2,1.98,6,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Chunked Pork - 5 days exp,2,0.0,6,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Water,1149,0.0,6,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Chinese Bockchoy- 5 days exp,4,0.0,6,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Braised Chicken - 5 days exp,1,0.0,6,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Sliced Fruit  - 5 day expiration,26,0.0,6,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Brew Tea - 5 days exp,7,0.0,6,1,July_Data_Matrix (1).xlsx,data 3
+July,item,Ramune - Orange,1,3.59,6,1,July_Data_Matrix (1).xlsx,data 3
+August,group,Signature Drinks,566,2408.42,1,1,August_Data_Matrix (1).xlsx,data 1
+August,group,Lunch Menu,308,4160.47,1,1,August_Data_Matrix (1).xlsx,data 1
+August,group,Gift Card,5,45.0,1,1,August_Data_Matrix (1).xlsx,data 1
+August,group,All Day Menu,7969,58601.83,1,1,August_Data_Matrix (1).xlsx,data 1
+August,group,Open Food,1,1.5,1,1,August_Data_Matrix (1).xlsx,data 1
+August,category,Wonton,211,2355.56,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Lunch Special,308,4160.47,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Prep item,38,1.0,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Additonal,156,395.71,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Fried Rice,422,5385.14,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Fruit Tea,110,452.94,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Fried Chicken,746,8590.0,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Appetizer,1129,6407.17,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Ramen,844,12574.53,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Tossed Ramen,480,6908.36,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Tossed Rice Noodle,420,6232.66,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Mai Dessert,19,111.65,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Rice Noodle,404,6053.93,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Gift Card,5,45.0,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Jas-Lemonade,84,346.85,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Combo Items,0,0.0,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Drink,2971,1930.03,2,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Open Food,1,1.5,2,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Special Offer,127,1648.21,2,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Milk Tea,374,1616.49,2,1,August_Data_Matrix (1).xlsx,data 2
+August,item,Beef Ramen,328,5032.52,1,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Lunch Special,308,4160.47,1,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Beef Tossed Ramen,214,3166.6,1,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Mai's BF Chicken Cutlet Combo,201,3047.09,1,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Chicken Ramen,181,2613.36,1,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Pork Ramen,173,2413.66,1,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Beef Tossed Rice Noodle,146,2343.52,1,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Sichuan Chili Wontons,181,2027.16,1,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Chicken Rice Noodle Soup,132,1922.45,1,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Beef Rice Noodle Soup,123,1889.06,1,1,August_Data_Matrix (1).xlsx,data 3
+August,item,House Ramen,112,1830.92,1,1,August_Data_Matrix (1).xlsx,data 3
+August,item,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",129,1761.18,1,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Chicken Tossed Rice Noodles,115,1648.14,1,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Mai Special Fried Chicken(8),157,1538.48,1,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Pork Tossed Ramen,116,1553.8,1,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Chicken Fried Rice,130,1568.64,1,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Pork Tossed Rice Noodle,100,1355.56,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Chicken Tossed Ramen,101,1439.54,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Steamed Pork Buns,233,1190.88,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Shrimp Fried Rice,87,1113.51,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Beef Fried Rice,75,992.82,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Fried Pork Dumplings(10),108,970.51,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,House Rice Noodle Soup,61,997.21,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,House Fried Rice,72,1004.67,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Pork Rice Noodle Soup,63,889.57,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Steam Pork Dumplings(10),106,948.27,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Vegetable Ramen,50,684.06,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Cream Cheese Rangoon(6),117,716.65,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Brown Sugar Milk Tea w. boba,149,601.79,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,House Tossed Rice Noodle,35,560.46,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Citrus Honey Fried Chicken  (8),53,536.24,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Tempura Shrimp(3),102,487.66,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Mai's Golden Flake Fried Chicken(8),50,533.85,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Crispy Spring Roll(3),132,523.04,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Chili Pepper Fried Chicken（8）,51,509.24,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Thai Milk Tea w. boba,98,433.74,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,House Tossed Ramen,27,443.31,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Spicy Cucumber Salad,69,378.5,2,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Mai BF Chicken Cutlet Combo,20,347.38,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Vegetable Rice Noodle Soup,25,355.64,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Vegetable Fried Rice,31,361.06,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Pork Fried Rice,27,344.44,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Jumbo Chicken Tenders Combo (3),39,378.75,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Golden Coconut Crunch Chicken(8),33,339.86,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Wonton Soup,30,328.39,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Crispy Pork Egg Roll(3),75,295.23,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Vegetable Tossed Rice Noodle,24,324.97,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Vegetable Tossed Ramen,22,305.12,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Mai OG Fried Chicken Wings(4),51,274.32,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Brown Sugar Rice Cake (5),54,289.82,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Dr. Pepper,94,279.4,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Pepsi zero,91,260.31,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Pepsi,87,253.94,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Tangy Honey Mustard Fried Chicken (8),28,259.41,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Sweet Ice Tea,87,247.16,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Sweet Sesame Ball (6) w. red bean,48,223.93,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Strawberry Sunrise,61,249.01,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Mai's BF Chicken Cutlet,29,218.02,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Onion Glory Fried Chicken(8),23,237.88,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Golden Kiwi,49,203.94,3,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Unsweet Ice Tea,69,201.11,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Specialty Drink,69,203.14,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Mai Buffalo Chicken Wings(8),22,214.18,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Crispy French Fries(LG),43,168.35,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Lemonade,59,175.02,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Mango Milk Tea,40,190.2,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Strawberry Milk Tea,42,186.52,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Steam Pork Bun （3）,16,113.94,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Hot Tea,35,103.03,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Brown Sugar Milk Tea,22,99.33,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Strawberry Jas-Lemonade,23,94.87,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,BF chicken cutlet combo,7,92.5,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Mango Jas-Lemonade,17,72.87,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Plain Fried Rice,18,80.25,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,White Rice - DINE IN,48,73.59,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Starry - Sprite,23,67.46,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Matcha Milk Tea w. boba,16,72.67,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Peach Jas-Lemonade,13,58.69,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Jumbo Chicken Tenders(3),10,61.24,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Original Jas-Lemonade,13,58.29,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Gift Card,5,45.0,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Bottled Soda,15,42.74,4,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Ramen,17,41.2,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Lychee Jas-Lemonade,10,37.81,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Pork Bun (3),6,35.94,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Orange Crush,13,38.73,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Chunked Beef,10,39.28,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Rice Noodle,15,36.91,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Braised Pork,9,29.82,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Braised Egg （2 half）,15,26.3,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Thai Milk Tea,5,24.37,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,White Rice,9,26.92,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Blueberry Jas-Lemonade,6,20.52,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Ramune - Strawberry,5,18.23,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,BF chicken cutlet,2,15.0,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Braised Chicken,5,14.2,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Chili Pepper Fried Chicken (8),1,11.99,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Tangy Honey Mustard Fried Chicken(8),1,11.99,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Bottled Water,7,12.64,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Wasabi Spiced Fried Chicken (8),1,9.99,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Shrimp (8),4,12.84,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,White Rice-To Go,3,9.5,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Crispy French Fries,2,7.98,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Pepsi Zero,2,7.32,5,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Ramune - Melon,2,6.58,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Sweet Tea,2,5.98,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Jumbo Chicken Tender (3),1,5.5,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Strawberry Milk Tea  (24oz),1,5.5,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Tropical Jas-Lemonade,2,3.8,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Coconut Milk,1,3.66,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Ramune - Original,1,3.59,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Brown Sugar Milk Tea w. Boba (24oz),1,2.37,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Pork Bun (1),1,2.25,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Open Food,1,1.5,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Popping boba -,1,1.0,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Mai‘s special Sauce,1,1.0,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Popping boba - -1,1,0.0,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Sliced Fruit  - 5 day expiration,17,0.0,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Brew Tea - 5 days exp,5,0.0,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Braised Chicken - 5 days exp,4,0.0,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Chunked Pork - 5 days exp,2,0.0,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Chunked Beef - 5 days exp,8,0.0,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Water,2140,0.0,6,1,August_Data_Matrix (1).xlsx,data 3
+August,item,Braised Egg,2,3.89,6,1,August_Data_Matrix (1).xlsx,data 3
+September,group,Lunch Menu,398,5606.57,1,1,September_Data_Matrix.xlsx,data 1
+September,group,All Day Menu,8629,66146.96,1,1,September_Data_Matrix.xlsx,data 1
+September,group,Signature Drinks,779,3483.07,1,1,September_Data_Matrix.xlsx,data 1
+September,category,Rice Noodle,454,6811.07,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Tossed Rice Noodle,442,6661.42,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Mai Dessert,17,102.07,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Ramen,977,14615.3,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Appetizer,1273,7227.69,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Jas-Lemonade,90,385.39,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Fried Chicken,927,10955.24,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Fried Rice,451,6205.81,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Tossed Ramen,483,6981.17,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Lunch Special,398,5606.57,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Wonton,233,2592.89,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Drink,3073,1737.27,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Additonal,167,599.02,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Combo Items,0,0.0,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Special Offer,131,1658.01,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Milk Tea,530,2417.89,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Prep item,1,0.0,2,1,September_Data_Matrix.xlsx,data 2
+September,category,Fruit Tea,159,679.79,2,1,September_Data_Matrix.xlsx,data 2
+September,item,Beef Ramen,362,5626.37,1,1,September_Data_Matrix.xlsx,data 3
+September,item,Lunch Special,398,5606.57,1,1,September_Data_Matrix.xlsx,data 3
+September,item,Mai's BF Chicken Cutlet Combo,285,4312.18,1,1,September_Data_Matrix.xlsx,data 3
+September,item,Pork Ramen,242,3360.22,1,1,September_Data_Matrix.xlsx,data 3
+September,item,Chicken Ramen,205,2976.79,1,1,September_Data_Matrix.xlsx,data 3
+September,item,Beef Tossed Ramen,188,2867.41,1,1,September_Data_Matrix.xlsx,data 3
+September,item,Beef Tossed Rice Noodle,154,2519.72,1,1,September_Data_Matrix.xlsx,data 3
+September,item,Mai Special Fried Chicken(8),210,2225.58,1,1,September_Data_Matrix.xlsx,data 3
+September,item,Sichuan Chili Wontons,185,2054.87,1,1,September_Data_Matrix.xlsx,data 3
+September,item,House Ramen,119,1972.32,1,1,September_Data_Matrix.xlsx,data 3
+September,item,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",144,1968.55,1,1,September_Data_Matrix.xlsx,data 3
+September,item,Chicken Rice Noodle Soup,133,1961.81,1,1,September_Data_Matrix.xlsx,data 3
+September,item,Chicken Fried Rice,148,1849.24,1,1,September_Data_Matrix.xlsx,data 3
+September,item,Beef Rice Noodle Soup,115,1807.11,1,1,September_Data_Matrix.xlsx,data 3
+September,item,Pork Tossed Ramen,137,1810.77,1,1,September_Data_Matrix.xlsx,data 3
+September,item,Pork Tossed Rice Noodle,115,1563.27,1,1,September_Data_Matrix.xlsx,data 3
+September,item,Chicken Tossed Rice Noodles,104,1523.75,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Steamed Pork Buns,321,1423.98,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Pork Rice Noodle Soup,95,1299.33,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Chicken Tossed Ramen,98,1399.24,2,1,September_Data_Matrix.xlsx,data 3
+September,item,House Rice Noodle Soup,81,1301.92,2,1,September_Data_Matrix.xlsx,data 3
+September,item,House Fried Rice,84,1206.15,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Shrimp Fried Rice,84,1112.14,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Fried Pork Dumplings(10),111,1013.36,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Steam Pork Dumplings(10),116,1011.17,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Cream Cheese Rangoon(6),148,938.89,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Beef Fried Rice,63,831.05,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Brown Sugar Milk Tea w. boba,169,734.42,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Thai Milk Tea w. boba,160,716.2,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Vegetable Fried Rice,32,672.43,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Crispy Spring Roll(3),133,674.23,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Vegetable Ramen,49,679.6,2,1,September_Data_Matrix.xlsx,data 3
+September,item,House Tossed Rice Noodle,39,646.75,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Mai's Golden Flake Fried Chicken(8),56,596.99,2,1,September_Data_Matrix.xlsx,data 3
+September,item,House Tossed Ramen,35,568.0,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Wonton Soup,48,538.02,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Pork Fried Rice,40,534.8,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Citrus Honey Fried Chicken  (8),48,489.69,2,1,September_Data_Matrix.xlsx,data 3
+September,item,Golden Coconut Crunch Chicken(8),45,454.18,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Tempura Shrimp(3),95,473.75,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Vegetable Rice Noodle Soup,30,440.89,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Chili Pepper Fried Chicken（8）,44,449.47,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Spicy Cucumber Salad,75,412.16,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Vegetable Tossed Rice Noodle,29,391.93,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Matcha Milk Tea w. boba,81,397.22,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Mango Milk Tea,81,383.84,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Mai's BF Chicken Cutlet,54,384.46,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Strawberry Sunrise,91,371.18,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Mai BF Chicken Cutlet Combo,22,386.37,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Brown Sugar Rice Cake (5),68,363.09,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Vegetable Tossed Ramen,25,335.76,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Mai OG Fried Chicken Wings(4),56,305.06,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Golden Kiwi,68,308.61,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Pepsi,98,288.33,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Crispy Pork Egg Roll(3),72,294.48,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Onion Glory Fried Chicken(8),28,283.72,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Jumbo Chicken Tenders Combo (3),26,272.32,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Mai Buffalo Chicken Wings(8),27,274.23,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Dr. Pepper,87,257.85,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Sweet Ice Tea,78,231.16,3,1,September_Data_Matrix.xlsx,data 3
+September,item,Steam Pork Bun （3）,33,223.69,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Specialty Drink,71,205.59,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Crispy French Fries(LG),52,207.76,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Sweet Sesame Ball (6) w. red bean,43,211.83,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Tangy Honey Mustard Fried Chicken (8),18,181.85,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Pepsi zero,61,180.29,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Strawberry Milk Tea,39,186.22,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Unsweet Ice Tea,48,141.77,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Braised Chicken,4,109.59,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Lemonade,38,111.42,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Jumbo Chicken Tenders(3),18,109.98,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Chunked Beef,8,106.24,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Hot Tea,37,109.19,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Lychee Jas-Lemonade,23,102.87,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Plain Fried Rice,25,103.28,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Mango Jas-Lemonade,21,88.84,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Strawberry Jas-Lemonade,24,93.51,4,1,September_Data_Matrix.xlsx,data 3
+September,item,White Rice,27,80.94,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Starry - Sprite,22,64.64,4,1,September_Data_Matrix.xlsx,data 3
+September,item,White Rice - DINE IN,42,62.75,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Orange Crush,18,47.42,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Rice Noodle,17,45.55,4,1,September_Data_Matrix.xlsx,data 3
+September,item,Bottled Soda,12,35.81,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Original Jas-Lemonade,7,32.3,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Peach Jas-Lemonade,7,30.52,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Ramen,13,32.18,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Braised Egg （2 half）,16,27.74,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Pepsi Zero,6,21.96,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Blueberry Jas-Lemonade,5,24.73,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Braised Pork,4,12.68,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Tropical Jas-Lemonade,3,12.62,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Ramune - Grape,3,10.98,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Ramune - Strawberry,3,10.98,5,1,September_Data_Matrix.xlsx,data 3
+September,item,北冰洋 Orange Soda,2,7.32,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Braised Egg,3,6.42,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Mai‘s special Sauce,5,6.15,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Bottled Water,3,5.25,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Sweet Tea,1,3.66,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Ramune - Melon,1,3.66,5,1,September_Data_Matrix.xlsx,data 3
+September,item,White Rice-To Go,2,4.5,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Mai‘s Special Sauce,1,1.0,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Water,2320,0.0,5,1,September_Data_Matrix.xlsx,data 3
+September,item,Sliced Fruit  - 5 day expiration,1,0.0,5,1,September_Data_Matrix.xlsx,data 3
+September,item,House Tossed Rice Noodle,1,15.99,5,1,September_Data_Matrix.xlsx,data 3
+October,category,Tossed Rice Noodle,391,5971.41,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Tossed Ramen,460,6591.08,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Ramen,940,14097.72,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Fried Chicken,939,10965.23,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Fruit Tea,105,460.01,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Fried Rice,492,6911.21,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Additonal,198,508.54,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Appetizer,1241,7416.47,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Dessert,31,153.64,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Lunch Special,366,5149.01,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Milk Tea,555,2527.77,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Special Offer,115,1344.64,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Wonton,213,2406.52,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Drink,2996,1820.99,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Open Food,2,9.31,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Bingsu,12,60.52,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Combo Items,0,0.0,2,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Jas-Lemonade,104,461.33,2,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Rice Noodle,410,6167.13,2,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Mai Dessert,33,184.81,2,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,item,Beef Ramen,357,5600.47,1,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Lunch Special,366,5149.01,1,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Mai's BF Chicken Cutlet Combo,266,4080.53,1,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Pork Ramen,227,3194.81,1,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Chicken Ramen,204,2934.9,1,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Beef Tossed Rice Noodle,155,2522.59,1,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Beef Tossed Ramen,170,2547.87,1,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Chicken Fried Rice,190,2379.19,1,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Mai Special Fried Chicken(8),200,2002.64,1,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Chicken Rice Noodle Soup,133,1979.08,1,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Sichuan Chili Wontons,165,1867.63,1,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Pork Tossed Ramen,144,1917.99,1,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Beef Rice Noodle Soup,118,1837.62,1,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Steamed Pork Buns,349,1735.84,1,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,House Ramen,97,1595.96,1,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Pork Tossed Rice Noodle,105,1423.4,1,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,"Mai's Wing Wheel (Mai OG, Onion, Honey, Coco, Special)",106,1436.39,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Chicken Tossed Ramen,93,1317.34,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Mai's Golden Flake Fried Chicken(8),81,1171.06,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Fried Pork Dumplings(10),136,1239.72,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Beef Fried Rice,82,1175.2,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Chicken Tossed Rice Noodles,73,1041.0,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Cream Cheese Rangoon(6),147,1085.89,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Shrimp Fried Rice,78,1056.36,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Steam Pork Dumplings(10),114,1008.12,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Pork Rice Noodle Soup,68,933.28,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,House Fried Rice,63,906.49,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,House Rice Noodle Soup,59,974.87,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Vegetable Fried Rice,39,805.56,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Mai's BF Chicken Cutlet,109,781.11,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Vegetable Ramen,55,771.57,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Thai Milk Tea w. boba,166,738.59,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Brown Sugar Milk Tea w. boba,169,728.16,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,House Tossed Rice Noodle,41,682.06,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Pork Fried Rice,40,588.41,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Wonton Soup,48,538.9,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Crispy Spring Roll(3),111,514.27,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Chili Pepper Fried Chicken（8）,50,494.84,2,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,House Tossed Ramen,32,516.72,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Tempura Shrimp(3),88,445.43,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Vegetable Rice Noodle Soup,32,442.28,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Golden Coconut Crunch Chicken(8),42,422.19,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Jumbo Chicken Tenders Combo (3),39,391.75,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Matcha Milk Tea w. boba,88,445.74,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Crispy Pork Egg Roll(3),91,372.53,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Mango Milk Tea,82,381.28,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Spicy Cucumber Salad,64,356.75,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Sweet Sesame Ball (6) w. red bean,66,326.11,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Steam Pork Bun （3）,39,294.51,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Vegetable Tossed Rice Noodle,17,302.35,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Dr. Pepper,98,291.57,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Vegetable Tossed Ramen,21,291.16,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Pepsi,90,268.09,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Brown Sugar Rice Cake (5),50,268.38,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Citrus Honey Fried Chicken  (8),29,286.81,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Pepsi zero,94,277.37,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Tangy Honey Mustard Fried Chicken (8),26,257.33,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Onion Glory Fried Chicken(8),22,223.8,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Strawberry Sunrise,59,252.37,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Strawberry Milk Tea,50,234.01,3,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Mai OG Fried Chicken Wings(4),42,217.46,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Golden Kiwi,46,207.64,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Sweet Ice Tea,71,209.81,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Plain Fried Rice,43,182.43,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Crispy French Fries(LG),47,184.41,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Specialty Drink,57,169.58,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Mai BF Chicken Cutlet Combo,10,175.94,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Mai Buffalo Chicken Wings(8),20,193.97,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Mango Jas-Lemonade,38,168.05,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Unsweet Ice Tea,53,154.07,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Hot Tea,39,115.78,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Strawberry Jas-Lemonade,29,130.03,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Lemonade,38,108.96,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Starry - Sprite,25,73.66,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Jumbo Chicken Tenders(3),15,97.02,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Original Jas-Lemonade,15,63.99,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Ramen,26,65.93,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,White Rice - DINE IN,42,60.26,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,White Rice,19,58.14,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Bottled Soda,16,48.26,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Peach Jas-Lemonade,8,37.01,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Orange Crush,13,39.39,4,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Lychee Jas-Lemonade,7,30.7,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Rice Noodle,11,27.7,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Mai‘s special Sauce,21,25.6,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Pepsi Zero,6,21.29,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,White Rice-To Go,10,23.75,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Braised Egg （2 half）,12,21.0,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Tropical Jas-Lemonade,3,15.0,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Mango Bingsu,2,14.29,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Brown Sugar Bingsu,4,20.25,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Ramune - Strawberry,4,13.3,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Shrimp (8),4,13.0,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Blueberry Jas-Lemonade,4,16.55,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Thai Bingsu,4,19.23,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Chunked Beef,3,12.32,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Open Food,2,9.31,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Bottled Water,5,8.58,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Ramune - Grape,2,7.32,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Braised Pork,2,7.23,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Strawberry Bingsu,2,6.75,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Coconut Milk,2,6.65,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Braised Egg,3,6.42,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,北冰洋 Orange Soda,1,3.66,5,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Ramune - Melon,1,3.66,6,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Braised Chicken,1,3.25,6,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,soup to go,1,1.5,6,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,item,Water,2157,0.0,6,1,October_Data_Matrix_20251103_214000.xlsx,data 2
+October,group,Signature Drinks,776,3509.64,1,1,October_Data_Matrix_20251103_214000.xlsx,data 3
+October,group,Lunch Menu,366,5149.01,1,1,October_Data_Matrix_20251103_214000.xlsx,data 3
+October,group,Open Food,2,9.31,1,1,October_Data_Matrix_20251103_214000.xlsx,data 3
+October,group,All Day Menu,8459,64539.39,1,1,October_Data_Matrix_20251103_214000.xlsx,data 3

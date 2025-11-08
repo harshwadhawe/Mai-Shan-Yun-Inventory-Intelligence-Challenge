@@ -1,0 +1,107 @@
+month,data_level,level_name,Count,Amount,source_page,source_table,source_file,sheet_name
+May,category,Fried Chicken,787,7935.26,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Combo Items,0,0.0,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Drink,3169,2922.54,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Additonal,175,358.48,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Rice Noodle,524,7698.91,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Wonton,50,546.94,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Milk Tea,244,1108.72,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Combo Items Donot Delete,0,0.0,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Appetizer,1146,6217.05,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Ramen,816,12118.38,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Tossed Rice Noodle,398,6000.15,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Lunch Special,269,3783.26,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Tossed Ramen,941,13539.42,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Fried Rice,214,2850.3,1,1,May_Data_Matrix (1).xlsx,data 2
+May,category,Open Food,2,4.52,1,1,May_Data_Matrix (1).xlsx,data 2
+June,category,Tossed Ramen,510,7287.69,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Tossed Rice Noodle,243,3652.73,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Ramen,479,7108.15,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Appetizer,836,4487.7,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Additonal,127,255.81,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Fried Rice,146,1967.46,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Fried Chicken,551,5725.04,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Lunch Special,222,3089.08,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Prep item,0,0.0,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Wonton,103,1187.4,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Milk Tea,189,836.14,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Special Offer,37,472.38,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Combo Items,0,0.0,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Drink,1896,2086.79,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Open Food,1,5.0,1,1,June_Data_Matrix.xlsx,data 2
+June,category,Rice Noodle,298,4365.96,1,1,June_Data_Matrix.xlsx,data 2
+July,category,Lunch Special,213,2994.75,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Milk Tea,256,1120.75,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Prep item,42,0.0,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Fried Rice,130,1748.27,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Appetizer,901,5012.23,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Fried Chicken,452,4676.16,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Additonal,91,204.2,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Ramen,618,9153.54,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Tossed Ramen,581,8147.01,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Tossed Rice Noodle,252,3778.39,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Gift Card,1,5.99,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Rice Noodle,315,4621.24,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Combo Items,0,0.0,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Drink,2039,2445.01,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Open Food,3,5.75,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Special Offer,118,1271.28,1,1,July_Data_Matrix (1).xlsx,data 2
+July,category,Wonton,82,910.64,2,1,July_Data_Matrix (1).xlsx,data 2
+August,category,Wonton,211,2355.56,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Lunch Special,308,4160.47,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Prep item,38,1.0,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Additonal,156,395.71,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Fried Rice,422,5385.14,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Fruit Tea,110,452.94,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Fried Chicken,746,8590.0,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Appetizer,1129,6407.17,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Ramen,844,12574.53,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Tossed Ramen,480,6908.36,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Tossed Rice Noodle,420,6232.66,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Mai Dessert,19,111.65,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Rice Noodle,404,6053.93,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Gift Card,5,45.0,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Jas-Lemonade,84,346.85,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Combo Items,0,0.0,1,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Drink,2971,1930.03,2,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Open Food,1,1.5,2,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Special Offer,127,1648.21,2,1,August_Data_Matrix (1).xlsx,data 2
+August,category,Milk Tea,374,1616.49,2,1,August_Data_Matrix (1).xlsx,data 2
+September,category,Rice Noodle,454,6811.07,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Tossed Rice Noodle,442,6661.42,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Mai Dessert,17,102.07,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Ramen,977,14615.3,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Appetizer,1273,7227.69,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Jas-Lemonade,90,385.39,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Fried Chicken,927,10955.24,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Fried Rice,451,6205.81,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Tossed Ramen,483,6981.17,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Lunch Special,398,5606.57,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Wonton,233,2592.89,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Drink,3073,1737.27,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Additonal,167,599.02,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Combo Items,0,0.0,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Special Offer,131,1658.01,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Milk Tea,530,2417.89,1,1,September_Data_Matrix.xlsx,data 2
+September,category,Prep item,1,0.0,2,1,September_Data_Matrix.xlsx,data 2
+September,category,Fruit Tea,159,679.79,2,1,September_Data_Matrix.xlsx,data 2
+October,category,Tossed Rice Noodle,391,5971.41,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Tossed Ramen,460,6591.08,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Ramen,940,14097.72,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Fried Chicken,939,10965.23,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Fruit Tea,105,460.01,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Fried Rice,492,6911.21,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Additonal,198,508.54,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Appetizer,1241,7416.47,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Dessert,31,153.64,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Lunch Special,366,5149.01,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Milk Tea,555,2527.77,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Special Offer,115,1344.64,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Wonton,213,2406.52,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Drink,2996,1820.99,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Open Food,2,9.31,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Bingsu,12,60.52,1,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Combo Items,0,0.0,2,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Jas-Lemonade,104,461.33,2,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Rice Noodle,410,6167.13,2,1,October_Data_Matrix_20251103_214000.xlsx,data 1
+October,category,Mai Dessert,33,184.81,2,1,October_Data_Matrix_20251103_214000.xlsx,data 1

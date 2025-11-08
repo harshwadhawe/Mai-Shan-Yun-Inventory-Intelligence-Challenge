@@ -1,0 +1,15 @@
+ingredient,total_consumption_6months,avg_monthly_consumption,months_active,has_shipment_data,shipment_ingredient_name,quantity_per_shipment,unit,num_shipments,frequency
+bokchoy_g,280750.0,46791.666666666664,6,True,Bokchoy,25.0,lbs,5.0,weekly
+braised_beef_g,609540.0,101590.0,6,True,Beef,40.0,lbs,3.0,weekly
+braised_chicken_g,520860.0,86810.0,6,True,Chicken,40.0,lbs,2.0,weekly
+braised_pork_g,328080.0,54680.0,6,False,,,,,
+carrot_g,10720.0,1786.6666666666667,6,False,,,,,
+cilantro,193040.0,32173.333333333332,6,True,Cilantro,5.0,lbs,2.0,weekly
+egg_count,5898.0,983.0,6,True,Egg,120.0,eggs,5.0,weekly
+green_onion,214480.0,35746.666666666664,6,True,Green Onion,20.0,lbs,2.0,weekly
+peas_g,10720.0,1786.6666666666667,6,True,Peas + Carrot,40.0,lbs,3.0,weekly
+pickle_cabbage,191500.0,31916.666666666668,6,False,,,,,
+ramen_count,7117.0,1186.1666666666667,6,True,Ramen,50.0,rolls,15.0,biweekly
+rice_g,375200.0,62533.333333333336,6,True,Rice,50.0,lbs,2.0,biweekly
+rice_noodles_g,760500.0,126750.0,6,True,Rice Noodles,50.0,lbs,2.0,monthly
+white_onion,21440.0,3573.3333333333335,6,True,White Onion,80.0,whole onion,4.0,weekly

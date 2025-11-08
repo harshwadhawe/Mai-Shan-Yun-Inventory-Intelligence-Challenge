@@ -1,0 +1,39 @@
+{
+  "ingredient_data": {
+    "total_menu_items": 17,
+    "total_ingredients": 18,
+    "ingredient_columns": [
+      "braised_beef_g",
+      "braised_chicken_g",
+      "braised_pork_g",
+      "egg_count",
+      "rice_g",
+      "ramen_count",
+      "rice_noodles_g",
+      "chicken_thigh_pcs",
+      "chicken_wings_pcs",
+      "flour_g",
+      "pickle_cabbage",
+      "green_onion",
+      "cilantro",
+      "white_onion",
+      "peas_g",
+      "carrot_g",
+      "bokchoy_g",
+      "tapioca_starch"
+    ]
+  },
+  "shipment_data": {
+    "total_ingredients": 14,
+    "unique_frequencies": [
+      "weekly",
+      "biweekly",
+      "monthly"
+    ]
+  },
+  "monthly_sales_data": {
+    "months_processed": 6,
+    "total_records": 795,
+    "date_range": "August - September"
+  }
+}

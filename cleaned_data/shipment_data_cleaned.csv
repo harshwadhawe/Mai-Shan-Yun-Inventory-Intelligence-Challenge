@@ -1,0 +1,15 @@
+ingredient,quantity_per_shipment,unit,num_shipments,frequency,ingredient_usage_column
+Beef,40,lbs,3,weekly,braised_beef_g
+Chicken,40,lbs,2,weekly,braised_chicken_g
+Ramen,50,rolls,15,biweekly,ramen_count
+Rice Noodles,50,lbs,2,monthly,rice_noodles_g
+Flour,50,lbs,2,monthly,flour_g
+Tapioca Starch,25,lbs,1,monthly,tapioca_starch
+Rice,50,lbs,2,biweekly,rice_g
+Green Onion,20,lbs,2,weekly,green_onion
+White Onion,80,whole onion,4,weekly,white_onion
+Cilantro,5,lbs,2,weekly,cilantro
+Egg,120,eggs,5,weekly,egg_count
+Peas + Carrot,40,lbs,3,weekly,peas_g
+Bokchoy,25,lbs,5,weekly,bokchoy_g
+Chicken Wings,380,pieces,10,weekly,chicken_wings_pcs

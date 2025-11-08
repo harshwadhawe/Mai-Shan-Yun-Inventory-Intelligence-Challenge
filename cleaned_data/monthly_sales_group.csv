@@ -1,0 +1,23 @@
+month,data_level,level_name,Count,Amount,source_page,source_table,source_file,sheet_name
+May,group,Lunch Menu,269,3783.26,1,1,May_Data_Matrix (1).xlsx,data 1
+May,group,Open Food,2,4.52,1,1,May_Data_Matrix (1).xlsx,data 1
+May,group,All Day Menu,8464,61296.15,1,1,May_Data_Matrix (1).xlsx,data 1
+June,group,Lunch Menu,222,3089.08,1,1,June_Data_Matrix.xlsx,data 1
+June,group,All Day Menu,5415,39433.25,1,1,June_Data_Matrix.xlsx,data 1
+June,group,Open Food,1,5.0,1,1,June_Data_Matrix.xlsx,data 1
+July,group,All Day Menu,5877,43088.72,1,1,July_Data_Matrix (1).xlsx,data 1
+July,group,Lunch Menu,213,2994.75,1,1,July_Data_Matrix (1).xlsx,data 1
+July,group,Gift Card,1,5.99,1,1,July_Data_Matrix (1).xlsx,data 1
+July,group,Open Food,3,5.75,1,1,July_Data_Matrix (1).xlsx,data 1
+August,group,Signature Drinks,566,2408.42,1,1,August_Data_Matrix (1).xlsx,data 1
+August,group,Lunch Menu,308,4160.47,1,1,August_Data_Matrix (1).xlsx,data 1
+August,group,Gift Card,5,45.0,1,1,August_Data_Matrix (1).xlsx,data 1
+August,group,All Day Menu,7969,58601.83,1,1,August_Data_Matrix (1).xlsx,data 1
+August,group,Open Food,1,1.5,1,1,August_Data_Matrix (1).xlsx,data 1
+September,group,Lunch Menu,398,5606.57,1,1,September_Data_Matrix.xlsx,data 1
+September,group,All Day Menu,8629,66146.96,1,1,September_Data_Matrix.xlsx,data 1
+September,group,Signature Drinks,779,3483.07,1,1,September_Data_Matrix.xlsx,data 1
+October,group,Signature Drinks,776,3509.64,1,1,October_Data_Matrix_20251103_214000.xlsx,data 3
+October,group,Lunch Menu,366,5149.01,1,1,October_Data_Matrix_20251103_214000.xlsx,data 3
+October,group,Open Food,2,9.31,1,1,October_Data_Matrix_20251103_214000.xlsx,data 3
+October,group,All Day Menu,8459,64539.39,1,1,October_Data_Matrix_20251103_214000.xlsx,data 3

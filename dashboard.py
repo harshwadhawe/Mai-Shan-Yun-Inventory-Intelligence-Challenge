@@ -18,12 +18,11 @@ warnings.filterwarnings('ignore')
 # Page configuration
 st.set_page_config(
     page_title="MSY Inventory Intelligence Dashboard",
-    page_icon="🍜",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
-# Custom CSS - Dark Mode Compatible with Consistent Styling
+# Custom CSS
 st.markdown("""
     <style>
     /* Main Theme - Works with both light and dark modes */
@@ -151,7 +150,7 @@ st.markdown("""
 # Load data
 @st.cache_data
 def load_data():
-    """Load all processed data"""
+    """Load processed data files"""
     base_dir = Path(__file__).parent
     processed_dir = base_dir / "processed_data"
     cleaned_dir = base_dir / "cleaned_data"
@@ -179,24 +178,24 @@ month_order = ['May', 'June', 'July', 'August', 'September', 'October']
 # ============================================================================
 # HEADER
 # ============================================================================
-st.markdown('<h1 class="main-header">🍜 MSY Inventory Intelligence Dashboard</h1>', unsafe_allow_html=True)
+st.markdown('<h1 class="main-header">MSY Inventory Intelligence Dashboard</h1>', unsafe_allow_html=True)
 st.markdown("---")
 
 # ============================================================================
 # SIDEBAR - Navigation
 # ============================================================================
-st.sidebar.markdown("## 📊 Navigation")
+st.sidebar.markdown("## Navigation")
 st.sidebar.markdown("---")
 page = st.sidebar.radio(
     "Select Dashboard Section",
-    ["📈 Overview", "🥘 Ingredient Insights", "📦 Inventory Management", 
-     "🔮 Predictive Analytics", "💰 Cost Optimization", "📊 Sales Analysis"],
+    ["Overview", "Ingredient Insights", "Inventory Management", 
+     "Predictive Analytics", "Cost Optimization", "Sales Analysis"],
     label_visibility="collapsed"
 )
 st.sidebar.markdown("---")
 
 # Month Filter - Available on all pages
-st.sidebar.markdown("### 📅 Month Filter")
+st.sidebar.markdown("### Month Filter")
 view_mode = st.sidebar.radio(
     "View Mode",
     ["All Months", "Single Month", "Compare Months"],
@@ -218,7 +217,7 @@ else:
     selected_months = month_order
 
 st.sidebar.markdown("---")
-st.sidebar.markdown("### ℹ️ About")
+st.sidebar.markdown("### About")
 st.sidebar.info("""
 **MSY Inventory Intelligence Dashboard**
 
@@ -228,10 +227,10 @@ Transform raw restaurant data into actionable insights for inventory management,
 # ============================================================================
 # OVERVIEW PAGE
 # ============================================================================
-if page == "📈 Overview":
-    st.header("📈 Dashboard Overview")
+if page == "Overview":
+    st.header("Dashboard Overview")
     
-    # Executive Summary - Key Metrics
+    # Key Metrics
     total_revenue = data['monthly_sales']['Amount'].sum()
     avg_monthly_revenue = data['monthly_sales'].groupby('month')['Amount'].sum().mean()
     monthly_revenue = data['monthly_sales'].groupby('month')['Amount'].sum().reindex(month_order)
@@ -442,8 +441,8 @@ if page == "📈 Overview":
 # ============================================================================
 # INGREDIENT INSIGHTS PAGE
 # ============================================================================
-elif page == "🥘 Ingredient Insights":
-    st.header("🥘 Ingredient Insights")
+elif page == "Ingredient Insights":
+    st.header("Ingredient Insights")
     
     # Ingredient selector
     ingredients = data['ingredient_summary']['ingredient'].tolist()
@@ -459,7 +458,7 @@ elif page == "🥘 Ingredient Insights":
     with col2:
         st.metric("Avg Monthly Consumption", f"{ingredient_summary['avg_monthly_consumption']:,.0f}")
     with col3:
-        has_shipment = "✅ Yes" if ingredient_summary['has_shipment_data'] else "❌ No"
+        has_shipment = "Yes" if ingredient_summary['has_shipment_data'] else "No"
         st.metric("Shipment Data", has_shipment)
     
     st.markdown("---")
@@ -469,7 +468,7 @@ elif page == "🥘 Ingredient Insights":
         # Show single month consumption
         month_consumption = ingredient_data[ingredient_data['month'] == selected_months[0]]
         if len(month_consumption) > 0:
-            st.subheader(f"{selected_ingredient} - {selected_months[0]} Details")
+            st.subheader(f"{selected_ingredient} - {selected_months[0]}")
             col1, col2, col3 = st.columns(3)
             with col1:
                 st.metric("Consumption", f"{month_consumption.iloc[0]['total_consumption']:,.0f}")
@@ -534,13 +533,13 @@ elif page == "🥘 Ingredient Insights":
 # ============================================================================
 # INVENTORY MANAGEMENT PAGE
 # ============================================================================
-elif page == "📦 Inventory Management":
-    st.header("📦 Inventory Management & Reorder Alerts")
+elif page == "Inventory Management":
+    st.header("Inventory Management & Reorder Alerts")
     
     # Inventory status
-    st.subheader("🔔 Inventory Status & Alerts")
+    st.subheader("Inventory Status & Alerts")
     
-    # Calculate current inventory status with actionable recommendations
+    # Calculate current inventory status
     inventory_status = []
     for _, row in data['inventory_optimization'].iterrows():
         ingredient = row['ingredient']
@@ -567,7 +566,7 @@ elif page == "📦 Inventory Management":
             if days_until_reorder < 0:
                 days_until_reorder = 0  # Already below reorder point
             
-            status = "🟢 Good" if current_inventory > reorder_point else "🟡 Low" if current_inventory > reorder_point * 0.5 else "🔴 Critical"
+            status = "Good" if current_inventory > reorder_point else "Low" if current_inventory > reorder_point * 0.5 else "Critical"
             
             # Check for overstock (inventory > 150% of monthly consumption)
             is_overstocked = current_inventory > (forecasted_consumption * 1.5)
@@ -586,32 +585,32 @@ elif page == "📦 Inventory Management":
     
     inventory_df = pd.DataFrame(inventory_status)
     
-    # Enhanced actionable alerts with visual cards
-    critical = inventory_df[inventory_df['status'] == '🔴 Critical']
-    low = inventory_df[inventory_df['status'] == '🟡 Low']
+    # Inventory alerts
+    critical = inventory_df[inventory_df['status'] == 'Critical']
+    low = inventory_df[inventory_df['status'] == 'Low']
     overstocked = inventory_df[inventory_df['is_overstocked'] == True]
     
     # Summary metrics at top
     col1, col2, col3, col4 = st.columns(4)
     with col1:
-        st.metric("🔴 Critical", len(critical), delta="Action Required" if len(critical) > 0 else None)
+        st.metric("Critical", len(critical), delta="Action Required" if len(critical) > 0 else None)
     with col2:
-        st.metric("🟡 Low Stock", len(low))
+        st.metric("Low Stock", len(low))
     with col3:
-        st.metric("📦 Overstocked", len(overstocked))
+        st.metric("Overstocked", len(overstocked))
     with col4:
         healthy_count = len(inventory_df) - len(critical) - len(low) - len(overstocked)
-        st.metric("✅ Healthy", healthy_count)
+        st.metric("Healthy", healthy_count)
     
     st.markdown("---")
     
     # Critical Alerts - Visual Cards
     if len(critical) > 0:
-        st.subheader(f"🚨 Critical Alerts ({len(critical)} ingredients need immediate attention)")
+        st.subheader(f"Critical Alerts ({len(critical)} ingredients need immediate attention)")
         
         # Create visual cards for each critical item
         for idx, (_, row) in enumerate(critical.iterrows()):
-            with st.expander(f"🔴 {row['ingredient']} - URGENT ACTION REQUIRED", expanded=(idx == 0)):
+            with st.expander(f"{row['ingredient']} - URGENT ACTION REQUIRED", expanded=(idx == 0)):
                 col1, col2, col3 = st.columns(3)
                 
                 with col1:
@@ -632,7 +631,7 @@ elif page == "📦 Inventory Management":
                     st.markdown("**Recommended Action**")
                     st.markdown(f"""
                     <div style="background-color: #ffebee; padding: 1rem; border-radius: 8px; border-left: 4px solid #ef5350;">
-                        <h4 style="color: #c62828; margin: 0 0 0.5rem 0;">⚡ Immediate Action</h4>
+                        <h4 style="color: #c62828; margin: 0 0 0.5rem 0;">Immediate Action</h4>
                         <p style="margin: 0.5rem 0;"><strong>Order Quantity:</strong> {row['recommended_order_qty']:,.0f} units</p>
                         <p style="margin: 0.5rem 0;"><strong>Order By:</strong> Today</p>
                         <p style="margin: 0.5rem 0;"><strong>Priority:</strong> HIGH</p>
@@ -666,7 +665,7 @@ elif page == "📦 Inventory Management":
     
     # Low Stock Alerts
     if len(low) > 0:
-        st.subheader(f"⚠️ Low Stock Alerts ({len(low)} ingredients approaching reorder point)")
+        st.subheader(f"Low Stock Alerts ({len(low)} ingredients approaching reorder point)")
         
         # Create compact table with action buttons
         low_display = low[['ingredient', 'current_inventory', 'reorder_point', 'days_of_supply', 'recommended_order_qty', 'days_until_reorder']].copy()
@@ -688,11 +687,11 @@ elif page == "📦 Inventory Management":
             height=min(400, len(low) * 50 + 50)
         )
         
-        st.info(f"💡 **Action Required**: Order the recommended quantities within the specified days to prevent stockouts.")
+        st.info(f"**Action Required**: Order the recommended quantities within the specified days to prevent stockouts.")
     
     # Overstock Alerts
     if len(overstocked) > 0:
-        st.subheader(f"📦 Overstock Alerts ({len(overstocked)} ingredients may be overstocked)")
+        st.subheader(f"Overstock Alerts ({len(overstocked)} ingredients may be overstocked)")
         
         overstock_display = []
         for _, row in overstocked.iterrows():
@@ -719,22 +718,22 @@ elif page == "📦 Inventory Management":
             height=min(300, len(overstocked) * 50 + 50)
         )
         
-        st.warning(f"💡 **Waste Prevention**: Consider reducing order quantities for these ingredients to minimize waste and storage costs.")
+        st.warning(f"**Waste Prevention**: Consider reducing order quantities for these ingredients to minimize waste and storage costs.")
     
     # All Good Status
     if len(critical) == 0 and len(low) == 0 and len(overstocked) == 0:
-        st.success("✅ **All Clear!** All ingredients are at healthy inventory levels with no immediate action required.")
+        st.success("**All Clear!** All ingredients are at healthy inventory levels with no immediate action required.")
     
     st.markdown("---")
     
-    # Visual Inventory Health Dashboard
-    st.subheader("📊 Inventory Health Dashboard")
+    # Inventory Health Dashboard
+    st.subheader("Inventory Health Dashboard")
     
     # Calculate summary metrics
     total_ingredients = len(inventory_df)
     avg_days_supply = inventory_df['days_of_supply'].mean()
-    critical_count = len(inventory_df[inventory_df['status'] == '🔴 Critical'])
-    low_count = len(inventory_df[inventory_df['status'] == '🟡 Low'])
+    critical_count = len(inventory_df[inventory_df['status'] == 'Critical'])
+    low_count = len(inventory_df[inventory_df['status'] == 'Low'])
     overstock_count = len(inventory_df[inventory_df['is_overstocked'] == True])
     healthy_count = total_ingredients - critical_count - low_count - overstock_count
     
@@ -778,8 +777,8 @@ elif page == "📦 Inventory Management":
     
     st.markdown("---")
     
-    # Inventory Status Summary (Single chart instead of duplicate pie+bar)
-    st.subheader("📈 Inventory Status Summary")
+    # Inventory Status Summary
+    st.subheader("Inventory Status Summary")
     status_counts = {
         'Critical': critical_count,
         'Low Stock': low_count,
@@ -812,11 +811,11 @@ elif page == "📦 Inventory Management":
         data['consumption_with_shipments']['frequency'].notna()
     ].copy()
     
-    # Shipment Tracking - Simplified (only show actionable insights)
+    # Shipment Tracking
     if len(shipment_data) > 0:
-        st.subheader("📦 Shipment Tracking")
+        st.subheader("Shipment Tracking")
         
-        # Calculate coverage issues (actionable insight)
+        # Calculate coverage issues
         shipment_summary = []
         for _, row in shipment_data.iterrows():
             if pd.notna(row['quantity_per_shipment']) and pd.notna(row['estimated_shipments_needed']):
@@ -849,25 +848,25 @@ elif page == "📦 Inventory Management":
             coverage_issues = shipment_df[(shipment_df['coverage_ratio'] < 90) | (shipment_df['coverage_ratio'] > 110)]
             
             if len(coverage_issues) > 0:
-                st.warning(f"⚠️ **{len(coverage_issues)} ingredients have shipment coverage issues**")
+                st.warning(f"**{len(coverage_issues)} ingredients have shipment coverage issues**")
                 issues_display = coverage_issues[['ingredient', 'frequency', 'coverage_ratio']].copy()
                 issues_display.columns = ['Ingredient', 'Shipment Frequency', 'Coverage Ratio (%)']
                 issues_display = issues_display.sort_values('Coverage Ratio (%)')
                 st.dataframe(issues_display, use_container_width=True, height=200)
-                st.info("💡 **Action**: Adjust shipment frequency or quantity to match consumption patterns.")
+                st.info("**Action**: Adjust shipment frequency or quantity to match consumption patterns.")
             else:
-                st.success("✅ All ingredients have appropriate shipment coverage.")
+                st.success("All ingredients have appropriate shipment coverage.")
 
 # ============================================================================
 # PREDICTIVE ANALYTICS PAGE
 # ============================================================================
-elif page == "🔮 Predictive Analytics":
-    st.header("🔮 Predictive Analytics & Forecasting")
+elif page == "Predictive Analytics":
+    st.header("Predictive Analytics & Forecasting")
     
-    st.info("📊 **Forecasting Model**: Uses historical consumption patterns to predict future ingredient needs")
+    st.info("**Forecasting Model**: Uses historical consumption patterns to predict future ingredient needs")
     
     # Forecast summary - Top 10
-    st.subheader("📈 Next Month Forecast (November 2024)")
+    st.subheader("Next Month Forecast (November 2024)")
     
     top_forecast = data['forecasting_data'].nlargest(10, 'forecast_next_month')
     
@@ -890,7 +889,7 @@ elif page == "🔮 Predictive Analytics":
     st.plotly_chart(fig, use_container_width=True)
     
     # Trend analysis - Single ingredient
-    st.subheader("📊 Detailed Trend Analysis")
+    st.subheader("Detailed Trend Analysis")
     ingredient_selector = st.selectbox("Select Ingredient", data['forecasting_data']['ingredient'].tolist())
     
     ingredient_consumption = data['consumption_monthly'][
@@ -943,7 +942,7 @@ elif page == "🔮 Predictive Analytics":
     # Trend indicators
     col1, col2, col3 = st.columns(3)
     with col1:
-        trend_direction = "📈 Increasing" if forecast_row['trend_slope'] > 0 else "📉 Decreasing"
+        trend_direction = "Increasing" if forecast_row['trend_slope'] > 0 else "Decreasing"
         st.metric("Trend Direction", trend_direction)
     with col2:
         st.metric("Trend Slope", f"{forecast_row['trend_slope']:+.0f}/month")
@@ -953,11 +952,11 @@ elif page == "🔮 Predictive Analytics":
 # ============================================================================
 # COST OPTIMIZATION PAGE
 # ============================================================================
-elif page == "💰 Cost Optimization":
-    st.header("💰 Cost Optimization & Spending Analysis")
+elif page == "Cost Optimization":
+    st.header("Cost Optimization & Spending Analysis")
     
-    # Estimated Ingredient Usage Cost (Monthly) - Month-wise
-    st.subheader("💵 Estimated Ingredient Usage Cost")
+    # Estimated Ingredient Usage Cost
+    st.subheader("Estimated Ingredient Usage Cost")
     
     # Calculate estimated cost for selected months
     monthly_cost_data = []
@@ -1016,11 +1015,11 @@ elif page == "💰 Cost Optimization":
         )
         st.plotly_chart(fig, use_container_width=True)
     
-    st.info("💡 **Note**: Estimated costs are calculated as 30% of revenue (typical food cost ratio).")
+    st.info("**Note**: Estimated costs are calculated as 30% of revenue (typical food cost ratio).")
     st.markdown("---")
     
-    # Top 5 cost-efficient ingredients only
-    st.subheader("💵 Top 5 Most Cost-Efficient Ingredients")
+    # Top 5 cost-efficient ingredients
+    st.subheader("Top 5 Most Cost-Efficient Ingredients")
     top_efficiency = data['cost_efficiency'].nlargest(5, 'revenue_per_unit').reset_index()
     top_efficiency = top_efficiency.rename(columns={'index': 'ingredient'})
     
@@ -1044,11 +1043,11 @@ elif page == "💰 Cost Optimization":
 # ============================================================================
 # SALES ANALYSIS PAGE
 # ============================================================================
-elif page == "📊 Sales Analysis":
-    st.header("📊 Sales Analysis & Trends")
+elif page == "Sales Analysis":
+    st.header("Sales Analysis & Trends")
     
     # Monthly sales breakdown
-    st.subheader("📅 Monthly Sales Breakdown")
+    st.subheader("Monthly Sales Breakdown")
     
     monthly_sales_summary = data['monthly_sales'].groupby('month').agg({
         'Amount': 'sum',
@@ -1087,7 +1086,7 @@ elif page == "📊 Sales Analysis":
     
     # Month-wise Sales Analysis
     if view_mode == "Single Month" and selected_months:
-        st.subheader(f"📊 {selected_months[0]} Sales Analysis")
+        st.subheader(f"{selected_months[0]} Sales Analysis")
         
         # Category sales for selected month
         month_category_sales = data['monthly_sales_category'][
@@ -1139,7 +1138,7 @@ elif page == "📊 Sales Analysis":
             st.plotly_chart(fig, use_container_width=True)
             
     elif view_mode == "Compare Months" and len(selected_months) >= 2:
-        st.subheader(f"📊 Month Comparison: {', '.join(selected_months)}")
+        st.subheader(f"Month Comparison: {', '.join(selected_months)}")
         
         # Category comparison
         compare_category = data['monthly_sales_category'][
@@ -1176,7 +1175,7 @@ elif page == "📊 Sales Analysis":
         
     else:
         # All months - Monthly Sales by Category
-        st.subheader("📊 Monthly Sales by Category")
+        st.subheader("Monthly Sales by Category")
         
         category_sales = data['monthly_sales_category'].copy()
         category_sales = category_sales[
@@ -1214,7 +1213,7 @@ elif page == "📊 Sales Analysis":
         st.plotly_chart(fig, use_container_width=True)
         
         # Top 5 items by revenue - filtered by selected months
-        st.subheader("🍜 Top 5 Revenue-Generating Items")
+        st.subheader("Top 5 Revenue-Generating Items")
         filtered_sales = data['monthly_sales'][data['monthly_sales']['month'].isin(selected_months)]
         top_revenue = filtered_sales.groupby('level_name')['Amount'].sum().nlargest(5).reset_index()
         top_revenue.columns = ['item', 'revenue']
@@ -1242,7 +1241,7 @@ st.markdown("---")
 st.markdown("""
     <div class="footer-text">
         <p><strong>MSY Inventory Intelligence Dashboard</strong></p>
-        <p>Built for Mai Shan Yun Challenge | Data Analytics | Predictive Insights | Inventory Optimization</p>
+        <p>Built for Mai Shan Yun Challenge</p>
     </div>
 """, unsafe_allow_html=True)
 

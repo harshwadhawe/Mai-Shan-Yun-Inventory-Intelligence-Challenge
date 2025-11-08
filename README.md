@@ -14,32 +14,27 @@ The dashboard provides restaurant managers with comprehensive insights into:
 - **Cost Optimization**: Identify high-value ingredients and optimize spending
 - **Sales Impact**: Understand how menu item sales affect ingredient consumption
 
-### Key Insights Delivered
+### Key Questions Answered
 
-1. **Inventory Management**
-   - Which ingredients are running low or overstocked
-   - Automated reorder alerts based on consumption patterns
-   - Safety stock recommendations and reorder points
+1. **Which ingredients are running low or being overstocked?**
+   - Real-time inventory alerts with specific reorder recommendations
+   - Overstock detection to minimize waste
+   - Days of supply calculations
 
-2. **Trend Analysis**
-   - Monthly and seasonal consumption patterns
-   - Growth trends for revenue and ingredient usage
-   - Identification of volatile vs. stable ingredients
+2. **How do menu item sales affect ingredient consumption over time?**
+   - Interactive menu item selector showing sales trends
+   - Ingredient usage breakdown per menu item
+   - Total consumption impact calculations
 
-3. **Predictive Forecasting**
-   - Next month ingredient demand forecasts
-   - Trend-based predictions with volatility indicators
-   - Reorder timing recommendations
+3. **Are there seasonal or monthly trends in purchases or usage?**
+   - Month filter (All/Single/Compare) across all pages
+   - Monthly revenue and consumption trends
+   - Category sales by month
 
-4. **Cost Efficiency**
-   - Revenue per unit of consumption for each ingredient
-   - Identification of most cost-efficient ingredients
-   - Spending analysis and optimization opportunities
-
-5. **Sales Impact**
-   - How menu item sales drive ingredient consumption
-   - Top-performing items and their ingredient requirements
-   - Menu optimization insights
+4. **Can we predict when to reorder specific ingredients based on historical patterns?**
+   - Next month forecast (November 2024) for top 10 ingredients
+   - Trend analysis with slope indicators
+   - Days of supply and reorder timing recommendations
 
 ## 📊 Datasets Used & Integration
 
@@ -59,12 +54,12 @@ The dashboard provides restaurant managers with comprehensive insights into:
    - `MSY Data - Shipment.csv`
    - Shipment frequency, quantities, and units for 14 ingredients
 
-### Data Integration Pipeline
+### Data Processing Pipeline
 
 The dashboard uses a comprehensive data processing pipeline:
 
 ```
-Raw Data → Data Cleaning → Intermediate Processing → Dashboard
+Raw Data → Data Cleaning → Intermediate Processing → EDA & Forecasting → Dashboard
 ```
 
 **Step 1: Data Cleaning** (`data_cleaning.py`)
@@ -79,13 +74,13 @@ Raw Data → Data Cleaning → Intermediate Processing → Dashboard
 - Calculates ingredient consumption (sales × usage)
 - Aggregates consumption by month and ingredient
 - Merges consumption with shipment data
-- Creates summary statistics and forecasting data
+- Creates summary statistics
 - **Output**: `processed_data/` directory
 
 **Step 3: EDA & Advanced Analysis** (`eda_analysis.py`, `advanced_analysis.py`)
 - Performs exploratory data analysis
 - Generates forecasting predictions
-- Calculates inventory optimization metrics
+- Calculates inventory optimization metrics (reorder points, safety stock)
 - Identifies cost efficiency metrics
 - **Output**: `eda_output/` directory
 
@@ -95,10 +90,9 @@ Raw Data → Data Cleaning → Intermediate Processing → Dashboard
 - Implements predictive analytics
 - Generates alerts and recommendations
 
-### Integrated Datasets in Dashboard
+### Integrated Datasets
 
 The dashboard integrates the following processed datasets:
-
 - `ingredient_consumption_monthly.csv` - Monthly consumption by ingredient
 - `ingredient_summary.csv` - Summary statistics for each ingredient
 - `ingredient_consumption_with_shipments.csv` - Consumption merged with shipment data
@@ -108,171 +102,147 @@ The dashboard integrates the following processed datasets:
 - `forecasting_data.csv` - Next month forecasts
 - `cost_efficiency.csv` - Revenue efficiency metrics
 
-## 🚀 Setup & Run Instructions
+## 🚀 Quick Start
 
 ### Prerequisites
-
 - Python 3.8 or higher
 - pip (Python package manager)
 
 ### Installation
 
-1. **Clone or download the repository**
-   ```bash
-   cd mai-shen-yun
-   ```
-
-2. **Install required Python packages**
-   ```bash
-   pip install streamlit plotly pandas numpy
-   ```
-
-   Or install from requirements file (if provided):
+1. **Install required packages**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run data processing pipeline** (if not already done)
+2. **Process the data** (if not already done)
    ```bash
-   # Step 1: Clean the raw data
    python3 data_cleaning.py
-   
-   # Step 2: Process and combine data
    python3 intermediate_processing.py
-   
-   # Step 3: Generate EDA and forecasting (optional but recommended)
    python3 eda_analysis.py
    python3 advanced_analysis.py
    ```
 
-### Running the Dashboard
-
-1. **Start the Streamlit dashboard**
+3. **Run the dashboard**
    ```bash
    streamlit run dashboard.py
    ```
 
-2. **Access the dashboard**
-   - The dashboard will automatically open in your default web browser
-   - Default URL: `http://localhost:8501`
-   - If it doesn't open automatically, copy the URL from the terminal
+The dashboard will automatically open in your browser at `http://localhost:8501`
 
-3. **Navigate the dashboard**
-   - Use the sidebar to switch between different sections
-   - All visualizations are interactive (hover, zoom, pan)
-   - Data tables are sortable and filterable
+## 📊 Dashboard Sections
 
-### Dashboard Sections
+### 1. 📈 Overview
+- Key performance metrics (Revenue, Growth, Inventory Health)
+- Monthly revenue trends
+- Top 5 ingredients by consumption
+- Month filter for time-based analysis
 
-1. **📈 Overview**
-   - Key performance metrics
-   - Revenue and sales trends
-   - Top ingredients summary
+### 2. 🥘 Ingredient Insights
+- Select any ingredient for detailed analysis
+- Consumption trends over time
+- Month-wise consumption analysis
+- Month comparison capabilities
 
-2. **🥘 Ingredient Insights**
-   - Detailed ingredient analysis
-   - Consumption trends over time
-   - Top and least used ingredients
+### 3. 📦 Inventory Management
+- **Real-time Alerts**:
+  - 🔴 Critical: Ingredients below 50% of reorder point (with specific order quantities)
+  - 🟡 Low Stock: Approaching reorder point (with days until reorder)
+  - 📦 Overstocked: Ingredients with waste risk (with reduction recommendations)
+- Inventory Health Dashboard with visual gauge
+- Days of supply metrics
+- Shipment tracking with coverage analysis
 
-3. **📦 Inventory Management**
-   - Real-time inventory status
-   - Reorder alerts (Critical/Low/Good)
-   - Inventory optimization data
-   - Shipment tracking
+### 4. 🔮 Predictive Analytics
+- **Next Month Forecast**: Top 10 ingredients predicted for November 2024
+- Trend analysis with increasing/decreasing indicators
+- Volatility metrics (Coefficient of Variation)
+- Interactive ingredient selector for detailed trend view
 
-4. **🔮 Predictive Analytics**
-   - Next month forecasts
-   - Trend analysis and predictions
-   - Volatility indicators
+### 5. 💰 Cost Optimization
+- Estimated ingredient usage cost (monthly)
+- Cost vs Revenue comparison
+- Top 5 most cost-efficient ingredients
+- Month-wise cost analysis
 
-5. **💰 Cost Optimization**
-   - Revenue per unit analysis
-   - Spending by ingredient
-   - Cost efficiency metrics
+### 5. 📊 Sales Analysis
+- Monthly sales breakdown by category
+- **Menu Item Impact on Ingredient Consumption**: 
+  - Select menu item to see sales trend
+  - View ingredient usage breakdown
+  - Calculate total consumption impact
+- Top 5 revenue-generating items
+- Month filter for seasonal analysis
 
-6. **📊 Sales Analysis**
-   - Monthly sales breakdown
-   - Top items by revenue and quantity
-   - Sales impact on ingredient consumption
-
-## 💡 Example Insights & Use Cases
+## 💡 Example Use Cases
 
 ### Use Case 1: Checking Inventory Status
 **Scenario**: Manager wants to know which ingredients need reordering
 
 **Steps**:
 1. Navigate to "📦 Inventory Management" section
-2. View the alerts at the top (Critical/Low/Good status)
-3. Review the inventory optimization table for reorder points
-4. Check shipment frequency for planning
+2. View critical alerts with specific order recommendations
+3. Check days of supply for each ingredient
+4. Review overstock alerts to prevent waste
 
-**Insight**: Dashboard shows real-time status with color-coded alerts and specific reorder recommendations
+**Insight**: Dashboard shows exact quantities to order and when, with urgency indicators
 
 ### Use Case 2: Forecasting Next Month's Needs
 **Scenario**: Planning inventory for November
 
 **Steps**:
 1. Navigate to "🔮 Predictive Analytics" section
-2. Review the "Next Month Forecast" table
+2. Review top 10 ingredients forecast for November
 3. Select an ingredient to see detailed trend analysis
 4. Check trend direction and volatility
 
-**Insight**: Dashboard provides forecasted consumption for November with trend indicators (increasing/decreasing)
+**Insight**: Dashboard provides forecasted consumption with trend indicators
 
-### Use Case 3: Identifying Cost-Efficient Ingredients
-**Scenario**: Manager wants to optimize menu based on ingredient efficiency
-
-**Steps**:
-1. Navigate to "💰 Cost Optimization" section
-2. Review "Revenue per Unit" chart
-3. Check "Consumption vs Revenue" scatter plot
-4. Identify top revenue-generating items
-
-**Insight**: Dashboard shows which ingredients generate the most revenue per unit consumed (e.g., Eggs: $26.18/unit)
-
-### Use Case 4: Understanding Sales Impact
+### Use Case 3: Understanding Sales Impact on Ingredients
 **Scenario**: Manager wants to know how a popular item affects ingredient consumption
 
 **Steps**:
 1. Navigate to "📊 Sales Analysis" section
 2. Select a menu item from the dropdown
-3. View ingredient usage breakdown
-4. See total sales impact
+3. View sales trend and ingredient usage side-by-side
+4. See total consumption impact calculation
 
-**Insight**: Dashboard shows exactly which ingredients are used and in what quantities for each menu item
+**Insight**: Dashboard shows exactly how menu item sales drive ingredient consumption
 
-### Use Case 5: Seasonal Trend Analysis
-**Scenario**: Identifying seasonal patterns for better planning
+### Use Case 4: Identifying Seasonal Trends
+**Scenario**: Identifying monthly patterns for better planning
 
 **Steps**:
-1. Navigate to "📈 Overview" section
-2. Review monthly revenue and sales trends
-3. Navigate to "🥘 Ingredient Insights"
-4. Select an ingredient and view consumption over time
+1. Use month filter in sidebar (Select "Compare Months")
+2. Select multiple months to compare
+3. View trends across different sections
+4. Identify seasonal patterns
 
-**Insight**: Dashboard reveals patterns like June dip and August-September growth, helping plan for future months
+**Insight**: Dashboard reveals monthly patterns helping plan for future months
 
-## 🎨 Features
+## 🎨 Key Features
 
 ### Interactive Visualizations
 - **Plotly Charts**: All charts are interactive with hover, zoom, and pan capabilities
 - **Responsive Design**: Dashboard adapts to different screen sizes
-- **Real-time Updates**: Data refreshes when underlying files are updated
+- **Month Filter**: Analyze all months, single month, or compare months
 
 ### Predictive Analytics
-- **Next Month Forecasts**: Predicts ingredient consumption for November 2024
+- **Next Month Forecasts**: Predicts ingredient consumption for November 2024 (Top 10)
 - **Trend Analysis**: Shows increasing/decreasing trends with slope indicators
 - **Volatility Metrics**: Coefficient of Variation (CV) for risk assessment
 
 ### Actionable Alerts
-- **Critical Alerts**: Red alerts for ingredients below 50% of reorder point
-- **Low Stock Alerts**: Yellow warnings for ingredients approaching reorder point
-- **Good Status**: Green indicators for healthy inventory levels
+- **Critical Alerts**: Specific order quantities, days of supply, urgency indicators
+- **Low Stock Alerts**: Days until reorder needed, recommended quantities
+- **Overstock Alerts**: Excess units, reduction recommendations
+- **Visual Gauges**: Inventory level indicators
 
 ### Smart Analytics
 - **Consumption Calculation**: Automatically calculates consumption from sales × ingredient usage
-- **Risk Assessment**: Categorizes ingredients as LOW/MEDIUM/HIGH risk
-- **Cost Efficiency**: Calculates revenue per unit for optimization
+- **Days of Supply**: Calculates how long current inventory will last
+- **Cost Efficiency**: Revenue per unit calculations
+- **Menu Impact**: Shows how menu item sales drive ingredient consumption
 
 ## 📈 Performance
 
@@ -297,46 +267,43 @@ mai-shen-yun/
 ├── intermediate_processing.py  # Data processing pipeline
 ├── eda_analysis.py              # Exploratory data analysis
 ├── advanced_analysis.py         # Advanced analytics
+├── requirements.txt             # Python dependencies
 ├── cleaned_data/               # Cleaned datasets
 ├── processed_data/             # Processed datasets
-├── eda_output/                 # EDA outputs
+├── eda_output/                 # EDA and forecasting outputs
 └── README.md                   # This file
 ```
 
 ## 🎯 Judging Criteria Alignment
 
 ### Creativity & Insight (50%)
-✅ **Innovative Visualization**: Interactive Plotly charts with multiple views
-✅ **Smart Analytics**: Predictive forecasting, trend analysis, volatility metrics
-✅ **Actionability**: Reorder alerts, forecast recommendations, cost optimization insights
+✅ **Innovative Visualization**: Interactive Plotly charts with multiple views, visual gauges, month filters
+✅ **Smart Analytics**: Predictive forecasting (top 10), trend analysis, volatility metrics, days of supply
+✅ **Actionability**: Specific reorder recommendations, overstock alerts, menu impact analysis
 
 ### Technical Merit & Utility (50%)
 ✅ **Functionality**: Fully functional dashboard with all features working
 ✅ **Data Handling**: Comprehensive pipeline cleaning and integrating multiple datasets
-✅ **Usability**: Intuitive interface with clear navigation and organized sections
+✅ **Usability**: Intuitive interface with clear navigation, month filters, organized sections
 ✅ **Performance**: Efficient data loading and fast visualization rendering
 
 ## 📝 Notes
 
 - The dashboard uses simulated current inventory levels (80% of reorder point) for demonstration
 - In production, connect to actual inventory management system for real-time data
-- Forecasting model uses simple trend-based approach; can be enhanced with more sophisticated models
+- Forecasting model uses trend-based approach
 - All data is processed and cached for optimal performance
+- Month filter available on all pages for flexible analysis
 
 ## 🎬 Video Demo
 
-A video demonstration of the dashboard will showcase:
-1. Overview of all dashboard sections
-2. Inventory alerts and reorder recommendations
-3. Predictive forecasting features
-4. Cost optimization analysis
-5. Sales impact visualization
-
-## 📧 Contact & Support
-
-For questions or issues, please refer to the project documentation or contact the development team.
+A video demonstration of the dashboard should showcase:
+1. Overview with key metrics and month filtering
+2. Inventory alerts with specific reorder recommendations
+3. Predictive forecasting (top 10 ingredients)
+4. Menu item impact on ingredient consumption
+5. Cost optimization analysis
 
 ---
 
 **Built for the Mai Shan Yun Inventory Intelligence Challenge** 🍜
-
